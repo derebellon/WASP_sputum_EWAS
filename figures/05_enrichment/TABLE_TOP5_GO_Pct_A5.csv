@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,nicotinamide metabolic process,1,1,100,0.00202713426034289,1,NNMT
+BP,negative regulation of electron transfer activity,1,1,100,0.00966046731375535,1,ETFBKMT
+BP,regulation of fatty acid beta-oxidation using acyl-CoA dehydrogenase,1,1,100,0.00966046731375535,1,ETFBKMT
+BP,negative regulation of fatty acid beta-oxidation using acyl-CoA dehydrogenase,1,1,100,0.00966046731375535,1,ETFBKMT
+BP,regulation of smooth muscle tissue development,1,1,100,0.0098179212505526,1,TNN
+CC,COPI-coated Golgi to ER transport vesicle,1,1,100,0.01030547936518388,1,CCDC88A
+CC,autophagosome lumen,1,1,100,0.01670391828711057,1,DAPK2
+CC,"multivesicular body, internal vesicle lumen",1,1,100,0.01963818934393964,1,EGFR
+CC,MAD1 complex,1,1,100,0.02089053706673785,1,MAD1L1
+CC,nuclear RNA-directed RNA polymerase complex,2,1,50,0.00575718563652993,1,ZNFX1
+MF,nicotinamide N-methyltransferase activity,1,1,100,0.00202713426034289,1,NNMT
+MF,pyridine N-methyltransferase activity,1,1,100,0.00202713426034289,1,NNMT
+MF,amidinotransferase activity,1,1,100,0.00321018484233955,1,GATM
+MF,glycine amidinotransferase activity,1,1,100,0.00321018484233955,1,GATM
+MF,linoleic acid binding,1,1,100,0.0124992376219026,1,PPARD

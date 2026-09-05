@@ -1,0 +1,210 @@
+### SACCT
+JobID                   JobName      State ExitCode    Elapsed 
+6751344_1        wasp_06_enrich  COMPLETED      0:0   00:19:00 
+6751344_2        wasp_06_enrich  COMPLETED      0:0   00:19:26 
+6751344_3        wasp_06_enrich  COMPLETED      0:0   00:20:38 
+6751344_4        wasp_06_enrich  COMPLETED      0:0   00:18:39 
+6751344_5        wasp_06_enrich  COMPLETED      0:0   00:20:36 
+6751344_6        wasp_06_enrich  COMPLETED      0:0   00:20:36 
+6751344_7        wasp_06_enrich  COMPLETED      0:0   00:18:53 
+6751344_8        wasp_06_enrich  COMPLETED      0:0   00:18:09 
+6751344_9        wasp_06_enrich  COMPLETED      0:0   00:19:31 
+6751344_10       wasp_06_enrich  COMPLETED      0:0   00:19:35 
+6751344_11       wasp_06_enrich  COMPLETED      0:0   00:19:27 
+6751344_12       wasp_06_enrich  COMPLETED      0:0   00:19:46 
+6751344_13       wasp_06_enrich  COMPLETED      0:0   00:19:45 
+6751344_14       wasp_06_enrich  COMPLETED      0:0   00:19:28 
+6751355      wasp_07_enrich_fig     FAILED      1:0   00:00:04 
+6751356            wasp_08_sens    RUNNING      0:0   00:55:12 
+6751368      wasp_07_enrich_fig  COMPLETED      0:0   00:00:43 
+
+### CARPETAS VACIAS
+results/06_sensitivity_inflammatory/overlap
+
+### CONTEO
+results/01_quality_control: 296
+results/02_clinical_lca: 5
+results/03_cohort_tables: 12
+results/04_ewas: 111
+results/05_enrichment: 28
+results/06_sensitivity_inflammatory: 8
+results/01_quality_control/bad_samples_with_study_id_Oct2025.xlsx: 1
+results/01_quality_control/figure: 290
+results/01_quality_control/pc_fit_plot_Oct2025.png: 1
+results/01_quality_control/Report 1. QC-report_2025.html: 1
+results/01_quality_control/Report 1. QC-report_2025.md: 1
+results/01_quality_control/Report 2. Normalization-report.html: 1
+results/01_quality_control/Report 2. Normalization-report.md: 1
+results/02_clinical_lca/LCA_model_comparison_bootstrap.csv: 1
+results/02_clinical_lca/Table1_WASP_GLOBAL_PREIMPUTATION.html: 1
+results/02_clinical_lca/Table_LCA_by_class_EPI_PREIMPUTATION.html: 1
+results/02_clinical_lca/Table_LCA_by_class_GLOBAL_PREIMPUTATION.html: 1
+results/02_clinical_lca/Table_S_LCA_Item_Response_Probabilities.csv: 1
+results/03_cohort_tables/Table1_GLOBAL_vs_QC-EPIGEN.html: 1
+results/03_cohort_tables/Table2_QC-EPIGEN_by_LCA.html: 1
+results/03_cohort_tables/TableS_inflammatory_by_centre_counts.csv: 1
+results/03_cohort_tables/TableS_inflammatory_by_centre.html: 1
+results/03_cohort_tables/TableS_inflammatory_by_centre_pct.csv: 1
+results/03_cohort_tables/TableS_inflammatory_by_income_counts.csv: 1
+results/03_cohort_tables/TableS_inflammatory_by_income_pct.csv: 1
+results/03_cohort_tables/TableS_LCA_by_centre_counts.csv: 1
+results/03_cohort_tables/TableS_LCA_by_centre.html: 1
+results/03_cohort_tables/TableS_LCA_by_centre_pct.csv: 1
+results/03_cohort_tables/TableS_LCA_by_income_counts.csv: 1
+results/03_cohort_tables/TableS_LCA_by_income_pct.csv: 1
+results/04_ewas/EWAS_A10_phenotype_signature_C2_vs_rest.csv: 1
+results/04_ewas/EWAS_A10_phenotype_signature_C2_vs_rest_FDR.csv: 1
+results/04_ewas/EWAS_A10_phenotype_signature_C2_vs_rest_HITS.csv: 1
+results/04_ewas/EWAS_A10_phenotype_signature_C2_vs_rest_SUMMARY.csv: 1
+results/04_ewas/EWAS_A10_phenotype_signature_C2_vs_rest_Top20.csv: 1
+results/04_ewas/EWAS_A10_phenotype_signature_C2_vs_rest_Top20_genes.csv: 1
+results/04_ewas/EWAS_A10_phenotype_signature_C2_vs_rest_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A11_phenotype_signature_C3_vs_rest.csv: 1
+results/04_ewas/EWAS_A11_phenotype_signature_C3_vs_rest_FDR.csv: 1
+results/04_ewas/EWAS_A11_phenotype_signature_C3_vs_rest_HITS.csv: 1
+results/04_ewas/EWAS_A11_phenotype_signature_C3_vs_rest_SUMMARY.csv: 1
+results/04_ewas/EWAS_A11_phenotype_signature_C3_vs_rest_Top20.csv: 1
+results/04_ewas/EWAS_A11_phenotype_signature_C3_vs_rest_Top20_genes.csv: 1
+results/04_ewas/EWAS_A11_phenotype_signature_C3_vs_rest_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A12_phenotype_signature_C4_vs_rest.csv: 1
+results/04_ewas/EWAS_A12_phenotype_signature_C4_vs_rest_FDR.csv: 1
+results/04_ewas/EWAS_A12_phenotype_signature_C4_vs_rest_HITS.csv: 1
+results/04_ewas/EWAS_A12_phenotype_signature_C4_vs_rest_SUMMARY.csv: 1
+results/04_ewas/EWAS_A12_phenotype_signature_C4_vs_rest_Top20.csv: 1
+results/04_ewas/EWAS_A12_phenotype_signature_C4_vs_rest_Top20_genes.csv: 1
+results/04_ewas/EWAS_A12_phenotype_signature_C4_vs_rest_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A13_phenotype_signature_C5_vs_rest.csv: 1
+results/04_ewas/EWAS_A13_phenotype_signature_C5_vs_rest_FDR.csv: 1
+results/04_ewas/EWAS_A13_phenotype_signature_C5_vs_rest_HITS.csv: 1
+results/04_ewas/EWAS_A13_phenotype_signature_C5_vs_rest_SUMMARY.csv: 1
+results/04_ewas/EWAS_A13_phenotype_signature_C5_vs_rest_Top20.csv: 1
+results/04_ewas/EWAS_A13_phenotype_signature_C5_vs_rest_Top20_genes.csv: 1
+results/04_ewas/EWAS_A13_phenotype_signature_C5_vs_rest_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A14_phenotype_signature_C6_vs_rest.csv: 1
+results/04_ewas/EWAS_A14_phenotype_signature_C6_vs_rest_FDR.csv: 1
+results/04_ewas/EWAS_A14_phenotype_signature_C6_vs_rest_HITS.csv: 1
+results/04_ewas/EWAS_A14_phenotype_signature_C6_vs_rest_SUMMARY.csv: 1
+results/04_ewas/EWAS_A14_phenotype_signature_C6_vs_rest_Top20.csv: 1
+results/04_ewas/EWAS_A14_phenotype_signature_C6_vs_rest_Top20_genes.csv: 1
+results/04_ewas/EWAS_A14_phenotype_signature_C6_vs_rest_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A1_asthma_GLOBAL_vs_CONTROLS.csv: 1
+results/04_ewas/EWAS_A1_asthma_GLOBAL_vs_CONTROLS_FDR.csv: 1
+results/04_ewas/EWAS_A1_asthma_GLOBAL_vs_CONTROLS_HITS.csv: 1
+results/04_ewas/EWAS_A1_asthma_GLOBAL_vs_CONTROLS_SUMMARY.csv: 1
+results/04_ewas/EWAS_A1_asthma_GLOBAL_vs_CONTROLS_Top20.csv: 1
+results/04_ewas/EWAS_A1_asthma_GLOBAL_vs_CONTROLS_Top20_genes.csv: 1
+results/04_ewas/EWAS_A1_asthma_GLOBAL_vs_CONTROLS_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A2_asthma_ATOPIC_vs_Control_Atopic.csv: 1
+results/04_ewas/EWAS_A2_asthma_ATOPIC_vs_Control_Atopic_FDR.csv: 1
+results/04_ewas/EWAS_A2_asthma_ATOPIC_vs_Control_Atopic_HITS.csv: 1
+results/04_ewas/EWAS_A2_asthma_ATOPIC_vs_Control_Atopic_SUMMARY.csv: 1
+results/04_ewas/EWAS_A2_asthma_ATOPIC_vs_Control_Atopic_Top20.csv: 1
+results/04_ewas/EWAS_A2_asthma_ATOPIC_vs_Control_Atopic_Top20_genes.csv: 1
+results/04_ewas/EWAS_A2_asthma_ATOPIC_vs_Control_Atopic_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A3_asthma_NONATOPIC_vs_Control_NonAtopic.csv: 1
+results/04_ewas/EWAS_A3_asthma_NONATOPIC_vs_Control_NonAtopic_FDR.csv: 1
+results/04_ewas/EWAS_A3_asthma_NONATOPIC_vs_Control_NonAtopic_HITS.csv: 1
+results/04_ewas/EWAS_A3_asthma_NONATOPIC_vs_Control_NonAtopic_SUMMARY.csv: 1
+results/04_ewas/EWAS_A3_asthma_NONATOPIC_vs_Control_NonAtopic_Top20.csv: 1
+results/04_ewas/EWAS_A3_asthma_NONATOPIC_vs_Control_NonAtopic_Top20_genes.csv: 1
+results/04_ewas/EWAS_A3_asthma_NONATOPIC_vs_Control_NonAtopic_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A4_atopy_CONTROLS_C6_vs_C4.csv: 1
+results/04_ewas/EWAS_A4_atopy_CONTROLS_C6_vs_C4_FDR.csv: 1
+results/04_ewas/EWAS_A4_atopy_CONTROLS_C6_vs_C4_HITS.csv: 1
+results/04_ewas/EWAS_A4_atopy_CONTROLS_C6_vs_C4_SUMMARY.csv: 1
+results/04_ewas/EWAS_A4_atopy_CONTROLS_C6_vs_C4_Top20.csv: 1
+results/04_ewas/EWAS_A4_atopy_CONTROLS_C6_vs_C4_Top20_genes.csv: 1
+results/04_ewas/EWAS_A4_atopy_CONTROLS_C6_vs_C4_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A5_atopy_IN_ASTHMA.csv: 1
+results/04_ewas/EWAS_A5_atopy_IN_ASTHMA_FDR.csv: 1
+results/04_ewas/EWAS_A5_atopy_IN_ASTHMA_HITS.csv: 1
+results/04_ewas/EWAS_A5_atopy_IN_ASTHMA_SUMMARY.csv: 1
+results/04_ewas/EWAS_A5_atopy_IN_ASTHMA_Top20.csv: 1
+results/04_ewas/EWAS_A5_atopy_IN_ASTHMA_Top20_genes.csv: 1
+results/04_ewas/EWAS_A5_atopy_IN_ASTHMA_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A6_atopy_GLOBAL.csv: 1
+results/04_ewas/EWAS_A6_atopy_GLOBAL_FDR.csv: 1
+results/04_ewas/EWAS_A6_atopy_GLOBAL_HITS.csv: 1
+results/04_ewas/EWAS_A6_atopy_GLOBAL_SUMMARY.csv: 1
+results/04_ewas/EWAS_A6_atopy_GLOBAL_Top20.csv: 1
+results/04_ewas/EWAS_A6_atopy_GLOBAL_Top20_genes.csv: 1
+results/04_ewas/EWAS_A6_atopy_GLOBAL_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A7_severity_INDEPENDENT.csv: 1
+results/04_ewas/EWAS_A7_severity_INDEPENDENT_FDR.csv: 1
+results/04_ewas/EWAS_A7_severity_INDEPENDENT_HITS.csv: 1
+results/04_ewas/EWAS_A7_severity_INDEPENDENT_SUMMARY.csv: 1
+results/04_ewas/EWAS_A7_severity_INDEPENDENT_Top20.csv: 1
+results/04_ewas/EWAS_A7_severity_INDEPENDENT_Top20_genes.csv: 1
+results/04_ewas/EWAS_A7_severity_INDEPENDENT_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A8_severity_ATOPIC_C1_vs_C3.csv: 1
+results/04_ewas/EWAS_A8_severity_ATOPIC_C1_vs_C3_FDR.csv: 1
+results/04_ewas/EWAS_A8_severity_ATOPIC_C1_vs_C3_HITS.csv: 1
+results/04_ewas/EWAS_A8_severity_ATOPIC_C1_vs_C3_SUMMARY.csv: 1
+results/04_ewas/EWAS_A8_severity_ATOPIC_C1_vs_C3_Top20.csv: 1
+results/04_ewas/EWAS_A8_severity_ATOPIC_C1_vs_C3_Top20_genes.csv: 1
+results/04_ewas/EWAS_A8_severity_ATOPIC_C1_vs_C3_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_A9_phenotype_signature_C1_vs_rest.csv: 1
+results/04_ewas/EWAS_A9_phenotype_signature_C1_vs_rest_FDR.csv: 1
+results/04_ewas/EWAS_A9_phenotype_signature_C1_vs_rest_HITS.csv: 1
+results/04_ewas/EWAS_A9_phenotype_signature_C1_vs_rest_SUMMARY.csv: 1
+results/04_ewas/EWAS_A9_phenotype_signature_C1_vs_rest_Top20.csv: 1
+results/04_ewas/EWAS_A9_phenotype_signature_C1_vs_rest_Top20_genes.csv: 1
+results/04_ewas/EWAS_A9_phenotype_signature_C1_vs_rest_VOLCANO_CHAMPIONS.csv: 1
+results/04_ewas/EWAS_SUM_ASTHMA_UNION_list.csv: 1
+results/04_ewas/EWAS_SUM_ASTHMA_UNION_summary.csv: 1
+results/04_ewas/EWAS_SUM_ATOPY_UNION_list.csv: 1
+results/04_ewas/EWAS_SUM_ATOPY_UNION_summary.csv: 1
+results/04_ewas/EWAS_SUMMARY_A1_to_A14.csv: 1
+results/04_ewas/EWAS_SUM_ONEVSREST_UNION_list.csv: 1
+results/04_ewas/EWAS_SUM_ONEVSREST_UNION_summary.csv: 1
+results/04_ewas/EWAS_SUM_SEVERITY_UNION_list.csv: 1
+results/04_ewas/EWAS_SUM_SEVERITY_UNION_summary.csv: 1
+results/04_ewas/Table_SUM_ASTHMA_UNION_summary.md: 1
+results/04_ewas/Table_SUM_ATOPY_UNION_summary.md: 1
+results/04_ewas/Table_SUM_ONEVSREST_UNION_summary.md: 1
+results/04_ewas/Table_SUM_SEVERITY_UNION_summary.md: 1
+results/05_enrichment/RESULTS_GO_A10.csv: 1
+results/05_enrichment/RESULTS_GO_A11.csv: 1
+results/05_enrichment/RESULTS_GO_A12.csv: 1
+results/05_enrichment/RESULTS_GO_A13.csv: 1
+results/05_enrichment/RESULTS_GO_A14.csv: 1
+results/05_enrichment/RESULTS_GO_A1.csv: 1
+results/05_enrichment/RESULTS_GO_A2.csv: 1
+results/05_enrichment/RESULTS_GO_A3.csv: 1
+results/05_enrichment/RESULTS_GO_A4.csv: 1
+results/05_enrichment/RESULTS_GO_A5.csv: 1
+results/05_enrichment/RESULTS_GO_A6.csv: 1
+results/05_enrichment/RESULTS_GO_A7.csv: 1
+results/05_enrichment/RESULTS_GO_A8.csv: 1
+results/05_enrichment/RESULTS_GO_A9.csv: 1
+results/05_enrichment/RESULTS_KEGG_A10.csv: 1
+results/05_enrichment/RESULTS_KEGG_A11.csv: 1
+results/05_enrichment/RESULTS_KEGG_A12.csv: 1
+results/05_enrichment/RESULTS_KEGG_A13.csv: 1
+results/05_enrichment/RESULTS_KEGG_A14.csv: 1
+results/05_enrichment/RESULTS_KEGG_A1.csv: 1
+results/05_enrichment/RESULTS_KEGG_A2.csv: 1
+results/05_enrichment/RESULTS_KEGG_A3.csv: 1
+results/05_enrichment/RESULTS_KEGG_A4.csv: 1
+results/05_enrichment/RESULTS_KEGG_A5.csv: 1
+results/05_enrichment/RESULTS_KEGG_A6.csv: 1
+results/05_enrichment/RESULTS_KEGG_A7.csv: 1
+results/05_enrichment/RESULTS_KEGG_A8.csv: 1
+results/05_enrichment/RESULTS_KEGG_A9.csv: 1
+results/06_sensitivity_inflammatory/EWAS_SENSITIVITY_Sputum_Eosinophilic_vs_Rest.csv: 1
+results/06_sensitivity_inflammatory/EWAS_SENSITIVITY_Sputum_Mixed granulocytic_vs_Rest.csv: 1
+results/06_sensitivity_inflammatory/EWAS_SENSITIVITY_Sputum_Neutrophilic_vs_Rest.csv: 1
+results/06_sensitivity_inflammatory/EWAS_SENSITIVITY_Sputum_Paucigranulocytic_vs_Rest.csv: 1
+results/06_sensitivity_inflammatory/GO_SIG_Sputum_Eosinophilic.csv: 1
+results/06_sensitivity_inflammatory/KEGG_SIG_Sputum_Eosinophilic.csv: 1
+results/06_sensitivity_inflammatory/KEGG_SIG_Sputum_Mixed granulocytic.csv: 1
+results/06_sensitivity_inflammatory/overlap: 0
+results/06_sensitivity_inflammatory/SENSITIVITY_SUMMARY.csv: 1
+figures/02_lca: 2
+figures/04_ewas: 52
+figures/05_enrichment: 112
+figures/06_sensitivity_inflammatory: 4
+
+### ERRORES EN LOGS NUEVOS
+logs/07_enrich_fig_6751355.err:2:Error in pub_title_of(comp_id) : could not find function "pub_title_of"
+logs/07_enrich_fig_6751355.err:4:Execution halted

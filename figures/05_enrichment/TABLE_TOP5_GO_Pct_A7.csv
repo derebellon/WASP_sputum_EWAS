@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,detection of tumor cell,1,1,100,0.00437492135037795,1,CRTAM
+BP,Fc receptor-mediated immune complex endocytosis,1,1,100,0.00448152413962067,1,FCER2
+BP,glycolipid translocation,1,1,100,0.00473770650054893,1,RFT1
+BP,"O-glycan processing, core 2",1,1,100,0.00788539109053361,1,GCNT1
+BP,sorbitol metabolic process,1,1,100,0.00924817665467235,1,SORD
+CC,podosome ring,1,1,100,0.01667484106736097,1,VCL
+CC,H zone,1,1,100,0.02022915071051922,1,DST
+CC,GMP reductase complex,2,1,50,0.01410264014878302,1,GMPR
+CC,climbing fiber,2,1,50,0.02445839263389857,1,DAB2IP
+CC,parallel fiber,2,1,50,0.03157244313073652,1,DAB2IP
+MF,C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity,1,1,100,0.00417012983516154,1,NSDHL
+MF,sterol-4-alpha-carboxylate 3-dehydrogenase (decarboxylating) activity,1,1,100,0.00417012983516154,1,NSDHL
+MF,3-beta-hydroxysteroid dehydrogenase/C4-decarboxylase activity,1,1,100,0.00417012983516154,1,NSDHL
+MF,4alpha-carboxy-4beta-methyl-5alpha-cholesta-8-en-3beta-ol:NAD(P)+ 3-oxidoreductase (decarboxylating) activity,1,1,100,0.00417012983516154,1,NSDHL
+MF,4alpha-carboxy-5alpha-cholesta-8-en-3beta-ol:NAD(P)+ 3-dehydrogenase (decarboxylating) activity,1,1,100,0.00417012983516154,1,NSDHL

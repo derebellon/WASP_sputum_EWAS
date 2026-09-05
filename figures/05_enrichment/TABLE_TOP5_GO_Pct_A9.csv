@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,retinoic acid receptor signaling pathway involved in somitogenesis,1,1,100,0.01208387550655497,1,ALDH1A2
+BP,ectoderm and mesoderm interaction,1,1,100,0.01342974196694882,1,TP63
+BP,molybdenum incorporation into molybdenum-molybdopterin complex,1,1,100,0.01369776447484164,1,GPHN
+BP,metal incorporation into metallo-molybdopterin complex,1,1,100,0.01369776447484164,1,GPHN
+BP,glycine receptor clustering,1,1,100,0.01369776447484164,1,GPHN
+CC,cerebellar Golgi cell to granule cell synapse,1,1,100,0.00278554318110648,1,GABRA6
+CC,G protein-coupled receptor homodimeric complex,1,1,100,0.01259325470261634,1,GRM1
+CC,apical distal dendrite,1,1,100,0.01352205666682993,1,MAP2
+CC,dense core granule lumen,2,1,50,0.01482765153794297,1,VPS13A
+CC,neuronal dense core vesicle lumen,2,1,50,0.01482765153794297,1,VPS13A
+MF,protein-glucosylgalactosylhydroxylysine glucosidase activity,1,1,100,0.00365029372935218,1,PGGHG
+MF,glyceryl-ether monooxygenase activity,1,1,100,0.0057743440791155,1,AGMO
+MF,2-hydroxyacylsphingosine 1-beta-galactosyltransferase activity,1,1,100,0.00750559156534779,1,UGT8
+MF,N-acylsphingosine galactosyltransferase activity,1,1,100,0.00750559156534779,1,UGT8
+MF,intracellular cAMP-activated cation channel activity involved in regulation of presynaptic membrane potential,1,1,100,0.00921227133126678,1,HCN1

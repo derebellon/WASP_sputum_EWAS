@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,glial cell fate determination,1,1,100,0.00845669848197076,1,CTNNB1
+BP,canonical Wnt signaling pathway involved in negative regulation of apoptotic process,1,1,100,0.00845669848197076,1,CTNNB1
+BP,canonical Wnt signaling pathway involved in positive regulation of cardiac outflow tract cell proliferation,1,1,100,0.00845669848197076,1,CTNNB1
+BP,regulation of cell proliferation involved in outflow tract morphogenesis,1,1,100,0.00845669848197076,1,CTNNB1
+BP,response to mitotic cell cycle checkpoint signaling,1,1,100,0.00854973312412956,1,APAF1
+CC,tubulin complex,1,1,100,0.01740822282702373,1,MAPT
+CC,integrin alphav-beta6 complex,2,1,50,0.01013257128823047,1,ITGB6
+CC,beta-N-acetylhexosaminidase complex,2,1,50,0.01481246457774762,1,HEXB
+CC,mitochondrial inner membrane peptidase complex,2,1,50,0.02135618461778302,1,IMMP2L
+CC,Scrib-APC-beta-catenin complex,2,1,50,0.0241485629141372,1,CTNNB1
+MF,2-methylacyl-CoA dehydrogenase activity,1,1,100,0.00391731587502413,1,ACADSB
+MF,isobutyryl-CoA:FAD oxidoreductase activity,1,1,100,0.00391731587502413,1,ACADSB
+MF,2-hydroxyacylsphingosine 1-beta-galactosyltransferase activity,1,1,100,0.00784331586361825,1,UGT8
+MF,N-acylsphingosine galactosyltransferase activity,1,1,100,0.00784331586361825,1,UGT8
+MF,heparan sulfate 2-O-sulfotransferase activity,1,1,100,0.01265545973556203,1,HS2ST1

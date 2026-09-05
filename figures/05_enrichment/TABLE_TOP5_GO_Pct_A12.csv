@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,regulation of translation by machinery localization,1,1,100,0.0022640090166234,1,PADI6
+BP,cellular response to lipid hydroperoxide,1,1,100,0.00479124637102973,1,MGST1
+BP,DN3 thymocyte differentiation,1,1,100,0.00850896071918625,1,CCR6
+BP,vacuolar sequestering,1,1,100,0.00912589756745831,1,GAA
+BP,fructose import across plasma membrane,1,1,100,0.01209484832412388,1,SLC2A5
+CC,DNA polymerase III complex,1,1,100,0.00686633640042558,1,CRCP
+CC,autolysosome lumen,1,1,100,0.00912589756745831,1,GAA
+CC,rod photoreceptor disc membrane,1,1,100,0.01721787994278783,1,ABCA4
+CC,MAD1 complex,1,1,100,0.02024818591543098,1,MAD1L1
+CC,"eukaryotic translation initiation factor 3 complex, eIF3e",2,1,50,0.01021133725758465,1,EIF3E
+MF,peptide antigen binding,33,5,15.151515151515152,3.0250364179126715e-5,0.6874092756064755,"MICA,HLA-DQB2,HLA-DRB1,HLA-H,SLC7A5"
+MF,L-asparagine:sodium symporter activity,1,1,100,0.00557966844765707,1,SLC38A7
+MF,L-glutamine:sodium symporter activity,1,1,100,0.00557966844765707,1,SLC38A7
+MF,25-hydroxycholesterol 7alpha-hydroxylase activity,1,1,100,0.00828657408238515,1,CYP7B1
+MF,27-hydroxycholesterol 7-alpha-monooxygenase activity,1,1,100,0.00828657408238515,1,CYP7B1

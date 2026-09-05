@@ -1,0 +1,373 @@
+Description,N,DE,P.DE,FDR,SigGenesInSet
+Progesterone-mediated oocyte maturation,98,4,0.007222151611327926,1,"ADCY9,RPS6KA2,STK10,MAD1L1"
+GABAergic synapse,89,4,0.01186261901521262,1,"ADCY9,PRKCA,CACNA1D,GABBR2"
+Pathways in cancer,530,10,0.012960980849775242,1,"BCL2L11,APC2,ADCY9,RASGRP3,GLI2,JAK1,MGST1,MLH1,PRKCA,LPAR2"
+Morphine addiction,91,4,0.017578217165665395,1,"ADCY9,PDE4B,PRKCA,GABBR2"
+Chemical carcinogenesis - receptor activation,216,5,0.019469030297010335,1,"ADCY9,MGST1,PRKCA,RPS6KA2,CACNA1D"
+GnRH secretion,64,3,0.028892999441952984,1,"PRKCA,CACNA1D,GABBR2"
+Colorectal cancer,86,3,0.038144782771349195,1,"BCL2L11,APC2,MLH1"
+Mucin type O-glycan biosynthesis,36,2,0.040785619276847096,1,"ST6GALNAC1,GALNT16"
+Measles,135,3,0.05260627296382145,1,"EIF2S1,JAK1,CD3D,CD3G"
+EGFR tyrosine kinase inhibitor resistance,78,3,0.053167568480310845,1,"BCL2L11,JAK1,PRKCA"
+Insulin secretion,86,3,0.05386843311136933,1,"ADCY9,PRKCA,CACNA1D"
+Vibrio cholerae infection,50,2,0.05442989909636938,1,"ADCY9,PRKCA"
+GnRH signaling pathway,93,3,0.05646859601986553,1,"ADCY9,PRKCA,CACNA1D"
+Oocyte meiosis,127,3,0.06066646449240957,1,"ADCY9,RPS6KA2,MAD1L1"
+Apoptosis,136,3,0.07158125158828572,1,"BCL2L11,CTSS,EIF2S1"
+Influenza A,168,3,0.07676825433537668,1,"EIF2S1,JAK1,PRKCA"
+Aldosterone synthesis and secretion,98,3,0.07956860023015769,1,"ADCY9,PRKCA,CACNA1D"
+Circadian entrainment,97,3,0.08484316167276765,1,"ADCY9,PRKCA,CACNA1D"
+Dilated cardiomyopathy,104,3,0.08498226641835144,1,"ADCY9,DMD,CACNA1D"
+Wnt signaling pathway,177,4,0.08639497507363347,1,"APC2,ROR2,PRKCA,LGR5"
+Platinum drug resistance,74,2,0.08686660269812682,1,"MGST1,MLH1"
+Basal cell carcinoma,63,2,0.09210488470449082,1,"APC2,GLI2"
+Endocrine and other factor-regulated calcium reabsorption,53,2,0.09727130377986948,1,"ADCY9,PRKCA"
+Selenocompound metabolism,17,1,0.10225943105739808,1,SCLY
+Vascular smooth muscle contraction,134,3,0.1047658474639252,1,"ADCY9,PRKCA,CACNA1D"
+Human T-cell leukemia virus 1 infection,220,4,0.10766300209203528,1,"ADCY9,JAK1,MAD1L1,CD3D,CD3G"
+Retrograde endocannabinoid signaling,141,3,0.1096473470330472,1,"ADCY9,PRKCA,CACNA1D"
+"Growth hormone synthesis, secretion and action",121,3,0.11478995562025397,1,"ADCY9,PRKCA,CACNA1D"
+Mismatch repair,23,1,0.11480662378437577,1,MLH1
+"Parathyroid hormone synthesis, secretion and action",115,3,0.11488001317075526,1,"ADCY9,PDE4B,PRKCA"
+Hedgehog signaling pathway,56,2,0.11660688873991262,1,"GPR161,GLI2"
+Cholinergic synapse,114,3,0.11779989270737612,1,"ADCY9,PRKCA,CACNA1D"
+Endometrial cancer,58,2,0.12046813056660169,1,"APC2,MLH1"
+cAMP signaling pathway,225,4,0.12489218082398204,1,"ADCY9,PDE4B,CACNA1D,GABBR2"
+Amphetamine addiction,69,2,0.12539879811374982,1,"PRKCA,CACNA1D"
+Glutamatergic synapse,116,3,0.12797620459598802,1,"ADCY9,PRKCA,CACNA1D"
+MAPK signaling pathway,299,5,0.1308036616432291,1,"RASGRP3,PPM1A,PRKCA,RPS6KA2,CACNA1D"
+Neuroactive ligand-receptor interaction,367,4,0.13482156109653934,1,"MLN,LYNX1,LPAR2,GABBR2"
+Thyroid hormone synthesis,75,2,0.14202359569549577,1,"ADCY9,PRKCA"
+Rap1 signaling pathway,210,4,0.14235872789678647,1,"ADCY9,RASGRP3,PRKCA,LPAR2"
+Autophagy - animal,166,3,0.14257475474003617,1,"EIF2S1,UVRAG,MTMR3"
+Long-term potentiation,67,2,0.14267284396448215,1,"PRKCA,RPS6KA2"
+Cortisol synthesis and secretion,65,2,0.14473627054792954,1,"ADCY9,CACNA1D"
+B cell receptor signaling pathway,82,2,0.15060486454444127,1,"LILRB1,RASGRP3"
+PD-L1 expression and PD-1 checkpoint pathway in cancer,89,2,0.16013445689534453,1,"JAK1,CD3D,CD3G"
+Salivary secretion,93,2,0.1652051772941098,1,"ADCY9,PRKCA"
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,21,1,0.16985236183331062,1,CHSY3
+Gastric acid secretion,76,2,0.17110797329282992,1,"ADCY9,PRKCA"
+Cushing syndrome,155,3,0.1723645060154172,1,"APC2,ADCY9,CACNA1D"
+Hepatocellular carcinoma,169,3,0.17411904923201052,1,"APC2,MGST1,PRKCA"
+Adrenergic signaling in cardiomyocytes,152,3,0.17432534853136405,1,"ADCY9,PRKCA,CACNA1D"
+Epstein-Barr virus infection,201,3,0.17589022045137326,1,"BCL2L11,JAK1,CD3D,CD3G"
+Th1 and Th2 cell differentiation,91,2,0.17589039015131339,1,"JAK1,CD3D,CD3G"
+Pancreatic secretion,101,2,0.18162863849854213,1,"ADCY9,PRKCA"
+Hormone signaling,217,3,0.18712447978549035,1,"ADCY9,AMHR2,MLN"
+Oxytocin signaling pathway,154,3,0.19037596400673468,1,"ADCY9,PRKCA,CACNA1D"
+Phospholipase D signaling pathway,147,3,0.1933978693610391,1,"ADCY9,PRKCA,LPAR2"
+Apoptosis - multiple species,32,1,0.19506457990864287,1,BCL2L11
+Necroptosis,160,2,0.19785315082353513,1,"JAK1,CHMP7"
+African trypanosomiasis,36,1,0.19851953747185777,1,PRKCA
+Proteasome,46,1,0.20105852736396196,1,PSMF1
+Drug metabolism - cytochrome P450,71,1,0.20284790519273768,1,MGST1
+Chemical carcinogenesis - DNA adducts,70,1,0.2041476138567363,1,MGST1
+Gap junction,89,2,0.20531585732761864,1,"ADCY9,PRKCA"
+Human immunodeficiency virus 1 infection,212,3,0.21153904916561878,1,"PRKCA,AP1G2,CD3D,CD3G"
+Neuroactive ligand signaling,199,3,0.21762608844608583,1,"ADCY9,PRKCA,GABBR2"
+Th17 cell differentiation,107,2,0.21831989386895226,1,"JAK1,CD3D,CD3G"
+Fc gamma R-mediated phagosome formation,96,2,0.22499956120038572,1,"MYO10,PRKCA"
+Metabolism of xenobiotics by cytochrome P450,77,1,0.22571478342488288,1,MGST1
+Phosphatidylinositol signaling system,97,2,0.22641603070688485,1,"PRKCA,MTMR3"
+Glutathione metabolism,58,1,0.22667985281258068,1,MGST1
+Melanogenesis,101,2,0.23123754721334522,1,"ADCY9,PRKCA"
+Hypertrophic cardiomyopathy,99,2,0.23147378773894126,1,"DMD,CACNA1D"
+Non-alcoholic fatty liver disease,151,2,0.2330340033520512,1,"BCL2L11,EIF2S1"
+Serotonergic synapse,113,2,0.23441896228795037,1,"PRKCA,CACNA1D"
+HIF-1 signaling pathway,109,2,0.23677220648135439,1,"PDK1,PRKCA"
+Arrhythmogenic right ventricular cardiomyopathy,86,2,0.23712658994019054,1,"DMD,CACNA1D"
+Inflammatory mediator regulation of TRP channels,98,2,0.2538952608142002,1,"ADCY9,PRKCA"
+Virion - Hepatitis viruses,48,1,0.2551721229881496,1,CHMP7
+Metabolic pathways,1558,12,0.2564834841227914,1,"CHKB,ADCY9,HEXD,CHSY3,ENPP7,MGAT5,MGST1,PDE4B,SCLY,ST6GALNAC1,GALNT16,SMYD3,MTMR3"
+Purine metabolism,127,2,0.2601356244993908,1,"ADCY9,PDE4B"
+Integrated stress response (ISR) signaling pathway,51,1,0.2622947577872463,1,EIF2S1
+Fanconi anemia pathway,53,1,0.2693500524090649,1,MLH1
+Vasopressin-regulated water reabsorption,44,1,0.27323829799606136,1,ADCY9
+NOD-like receptor signaling pathway,184,2,0.2738060425349593,1,"JAK1,ERBIN"
+Osteoclast differentiation,134,2,0.27422676940030943,1,"LILRB1,JAK1"
+Type I diabetes mellitus,42,1,0.28115853800619006,1,PTPRN2
+Hepatitis C,155,2,0.28181231742311386,1,"EIF2S1,JAK1"
+MicroRNAs in cancer,318,3,0.2850306610193304,1,"BCL2L11,APC2,PRKCA"
+Human cytomegalovirus infection,226,3,0.28866807898922897,1,"ADCY9,JAK1,PRKCA"
+Aldosterone-regulated sodium reabsorption,37,1,0.2895654926766825,1,PRKCA
+Carbohydrate digestion and absorption,46,1,0.29220655973153165,1,CACNA1D
+Coronavirus disease,234,2,0.29251887146101596,1,"JAK1,PRKCA"
+Drug metabolism - other enzymes,82,1,0.2966393456283601,1,MGST1
+N-Glycan biosynthesis,55,1,0.30227565281639734,1,MGAT5
+Sphingolipid metabolism,55,1,0.3125770766055084,1,ENPP7
+Tuberculosis,178,2,0.3179574423818069,1,"CTSS,JAK1"
+Herpes simplex virus 1 infection,176,2,0.3196251177111017,1,"EIF2S1,JAK1"
+Relaxin signaling pathway,129,2,0.321244021839494,1,"ADCY9,PRKCA"
+Signaling pathways regulating pluripotency of stem cells,142,2,0.325066564093517,1,"APC2,JAK1"
+Estrogen signaling pathway,137,2,0.3303830377534929,1,"ADCY9,GABBR2"
+Hepatitis B,162,2,0.3346490572421921,1,"JAK1,PRKCA"
+Ovarian steroidogenesis,52,1,0.3423186914019652,1,ADCY9
+Other types of O-glycan biosynthesis,49,1,0.3467494571932227,1,GALNT16
+PI3K-Akt signaling pathway,357,4,0.3513968456704972,1,"BCL2L11,JAK1,PRKCA,LPAR2"
+Cytokine-cytokine receptor interaction,293,2,0.36241064524934796,1,"AMHR2,IL1RN"
+Dopaminergic synapse,131,2,0.3643392700910945,1,"PRKCA,CACNA1D"
+mTOR signaling pathway,155,2,0.37015397120315974,1,"PRKCA,RPS6KA2"
+Gastric cancer,149,2,0.37131515333100373,1,"APC2,MLH1"
+Leishmaniasis,75,1,0.37340067516426667,1,JAK1
+Type II diabetes mellitus,46,1,0.38126225247644646,1,CACNA1D
+Antigen processing and presentation,71,1,0.3815138610982459,1,CTSS
+Pathways of neurodegeneration - multiple diseases,464,4,0.396271162849472,1,"APC2,EIF2S1,PRKCA,CACNA1D"
+Calcium signaling pathway,252,3,0.39877615069508765,1,"ADCY9,PRKCA,CACNA1D"
+Regulation of lipolysis in adipocytes,58,1,0.40021016354897976,1,ADCY9
+Taste transduction,85,1,0.40800294887837796,1,GABBR2
+Thermogenesis,219,2,0.40974779010158546,1,"ADCY9,RPS6KA2"
+VEGF signaling pathway,59,1,0.4113653860573272,1,PRKCA
+Lysine degradation,63,1,0.4116570987852794,1,SMYD3
+Pathogenic Escherichia coli infection,198,2,0.4178155731086377,1,"MYO10,LPAR2"
+Renin secretion,69,1,0.4277579177207369,1,CACNA1D
+Hematopoietic cell lineage,93,1,0.4293669499997386,1,"CD3D,CD3G"
+cGMP-PKG signaling pathway,165,2,0.43390047198215276,1,"ADCY9,CACNA1D"
+Hippo signaling pathway,157,2,0.4352274761675822,1,"APC2,GLI2"
+Viral carcinogenesis,193,2,0.4356462801809955,1,"JAK1,MAD1L1"
+Longevity regulating pathway - multiple species,61,1,0.43860750933137616,1,ADCY9
+Lipid and atherosclerosis,215,2,0.44197783066531654,1,"EIF2S1,PRKCA"
+Prion disease,259,2,0.44404536928834654,1,"EIF2S1,CACNA1D"
+Cardiac muscle contraction,83,1,0.4446530986451308,1,CACNA1D
+Alzheimer disease,372,3,0.4488012788012487,1,"APC2,EIF2S1,CACNA1D"
+Motor proteins,194,2,0.44924688741250596,1,"BICDL2,MYO10"
+Fc epsilon RI signaling pathway,67,1,0.4514454912128908,1,PRKCA
+Toll-like receptor signaling pathway,108,1,0.45148751120878855,1,JAK1
+Long-term depression,60,1,0.45151174829396606,1,PRKCA
+Bile secretion,89,1,0.4597907596102466,1,ADCY9
+Viral myocarditis,67,1,0.4692156696092775,1,DMD
+Central carbon metabolism in cancer,70,1,0.4771456305036989,1,PDK1
+Phagocytosis,251,2,0.48122297598235886,1,"CTSS,UVRAG"
+Mitophagy - animal,102,1,0.48905658955125314,1,EIF2S1
+Lysosome biogenesis,248,2,0.49037788321488274,1,"CTSS,AP1G2"
+Pancreatic cancer,76,1,0.4908171956096351,1,JAK1
+Inositol phosphate metabolism,78,1,0.4908236931653679,1,MTMR3
+Polycomb repressive complex,83,1,0.49990757663932334,1,KDM2A
+Glioma,75,1,0.5243364069279446,1,PRKCA
+Chagas disease,102,1,0.5266960186097929,1,"CD3D,CD3G"
+Non-small cell lung cancer,72,1,0.5288890357069367,1,PRKCA
+TGF-beta signaling pathway,110,1,0.5603410595939519,1,AMHR2
+Protein digestion and absorption,102,1,0.5682227554456658,1,COL23A1
+Amoebiasis,100,1,0.5694030893219583,1,PRKCA
+AGE-RAGE signaling pathway in diabetic complications,100,1,0.5751194796928707,1,PRKCA
+Longevity regulating pathway,89,1,0.5758893351670729,1,ADCY9
+Natural killer cell mediated cytotoxicity,125,1,0.5798394217872471,1,PRKCA
+Leukocyte transendothelial migration,114,1,0.5894709467188106,1,PRKCA
+Axon guidance,181,2,0.5932153466817525,1,"PRKCA,SEMA3E"
+ErbB signaling pathway,84,1,0.5941321808553067,1,PRKCA
+Toxoplasmosis,110,1,0.5997402011452417,1,JAK1
+Insulin resistance,108,1,0.6002137396771168,1,RPS6KA2
+Choline metabolism in cancer,98,1,0.6092430648200451,1,"CHKB,PRKCA"
+Endocrine resistance,96,1,0.6137176245208023,1,ADCY9
+Regulation of actin cytoskeleton,230,2,0.617651502259169,1,"APC2,LPAR2"
+Fluid shear stress and atherosclerosis,141,1,0.6193395681610769,1,MGST1
+Ras signaling pathway,235,2,0.6259900589832161,1,"RASGRP3,PRKCA"
+JAK-STAT signaling pathway,163,1,0.630233905825607,1,JAK1
+Cytoskeleton in muscle cells,233,2,0.635820107530924,1,"PDLIM5,DMD"
+Neutrophil extracellular trap formation,175,1,0.6397445509168839,1,PRKCA
+Protein processing in endoplasmic reticulum,171,1,0.641418694214974,1,EIF2S1
+FoxO signaling pathway,132,1,0.6442867372759324,1,BCL2L11
+Cell cycle,158,1,0.6444612183633798,1,MAD1L1
+T cell receptor signaling pathway,118,1,0.652251563461554,1,"CD3D,CD3G"
+Ubiquitin mediated proteolysis,142,1,0.6539828907332579,1,FBXW7
+Neurotrophin signaling pathway,119,1,0.6599726878264727,1,RPS6KA2
+Sphingolipid signaling pathway,123,1,0.6610581031218644,1,PRKCA
+Cornified envelope formation,213,1,0.6676911619011248,1,HRNR
+Platelet activation,125,1,0.6782564937401325,1,ADCY9
+Yersinia infection,135,1,0.6891499041712982,1,RPS6KA2
+Spinocerebellar ataxia,142,1,0.6967161256548556,1,PRKCA
+Thyroid hormone signaling pathway,121,1,0.6977770768813334,1,"MED12L,PRKCA"
+Diabetic cardiomyopathy,189,1,0.6980721023146064,1,PRKCA
+Chemical carcinogenesis - reactive oxygen species,211,1,0.7095748592100211,1,MGST1
+Apelin signaling pathway,139,1,0.7097081610577101,1,ADCY9
+Breast cancer,147,1,0.7153006347018229,1,APC2
+Cellular senescence,155,1,0.7338650396478135,1,CACNA1D
+Efferocytosis,155,1,0.738985024600126,1,MEGF10
+Tight junction,171,1,0.7485361364792122,1,CACNA1D
+Parkinson disease,253,1,0.7730203156874376,1,EIF2S1
+Kaposi sarcoma-associated herpesvirus infection,194,1,0.7751625527382506,1,JAK1
+Human papillomavirus infection,330,2,0.7808305096176573,1,"APC2,JAK1"
+Chemokine signaling pathway,192,1,0.7814179910901724,1,ADCY9
+Transcriptional misregulation in cancer,193,1,0.7943747238148615,1,AFF1
+Cadherin signaling,403,2,0.8175509218185117,1,"APC2,ERBIN"
+Proteoglycans in cancer,202,1,0.8422386363477885,1,PRKCA
+Amyotrophic lateral sclerosis,352,1,0.8750274864243655,1,EIF2S1
+Focal adhesion,201,1,0.8775997818197367,1,PRKCA
+Endocytosis,249,1,0.8812743435874917,1,CHMP7
+IgSF CAM signaling,296,1,0.9520851229661202,1,PRKCA
+Virion - Herpesvirus,8,0,0.9999999999999971,1,
+Glycosphingolipid biosynthesis - ganglio series,15,0,0.9999999999999978,1,
+D-Amino acid metabolism,6,0,0.999999999999998,1,
+Sulfur cycle,2,0,0.9999999999999983,1,
+Butanoate metabolism,27,0,0.9999999999999984,1,
+Circadian rhythm,34,0,0.9999999999999984,1,
+Phenylalanine metabolism,16,0,0.9999999999999986,1,
+C5-Branched dibasic acid metabolism,2,0,0.9999999999999986,1,
+Terpenoid backbone biosynthesis,24,0,0.9999999999999986,1,
+Glycosphingolipid biosynthesis - lacto and neolacto series,28,0,0.9999999999999989,1,
+Histidine metabolism,22,0,0.999999999999999,1,
+Autophagy - other,32,0,0.999999999999999,1,
+Primary immunodeficiency,36,0,0.999999999999999,1,CD3D
+Propanoate metabolism,32,0,0.9999999999999991,1,
+Virion - Human immunodeficiency virus,5,0,0.9999999999999991,1,
+beta-Alanine metabolism,31,0,0.9999999999999992,1,
+Folate biosynthesis,28,0,0.9999999999999993,1,
+Fatty acid elongation,28,0,0.9999999999999994,1,
+"Glycine, serine and threonine metabolism",39,0,0.9999999999999996,1,
+Phosphonate and phosphinate metabolism,6,0,0.9999999999999996,1,
+Amino sugar and nucleotide sugar metabolism,38,0,0.9999999999999996,1,
+Virion - Lassa virus and SFTS virus,17,0,0.9999999999999996,1,
+Glyoxylate and dicarboxylate metabolism,31,0,0.9999999999999997,1,
+Antifolate resistance,30,0,0.9999999999999997,1,
+Virion - Flavivirus and Alphavirus,6,0,0.9999999999999997,1,
+Ascorbate and aldarate metabolism,31,0,0.9999999999999998,1,
+Sulfur metabolism,10,0,0.9999999999999998,1,
+"Alanine, aspartate and glutamate metabolism",37,0,0.9999999999999999,1,
+Tyrosine metabolism,36,0,0.9999999999999999,1,
+Mannose type O-glycan biosynthesis,23,0,0.9999999999999999,1,
+Sulfur relay system,8,0,0.9999999999999999,1,
+Proximal tubule bicarbonate reclamation,23,0,0.9999999999999999,1,
+Collecting duct acid secretion,27,0,0.9999999999999999,1,
+Glycolysis / Gluconeogenesis,67,0,1,1,
+Pentose and glucuronate interconversions,37,0,1,1,
+Fatty acid biosynthesis,17,0,1,1,
+Fatty acid degradation,43,0,1,1,
+Steroid hormone biosynthesis,65,0,1,1,
+Oxidative phosphorylation,122,0,1,1,
+Pyrimidine metabolism,57,0,1,1,
+Cysteine and methionine metabolism,52,0,1,1,
+"Valine, leucine and isoleucine degradation",48,0,1,1,
+Arginine and proline metabolism,50,0,1,1,
+Tryptophan metabolism,41,0,1,1,
+Various types of N-glycan biosynthesis,44,0,1,1,HEXD
+Glycosaminoglycan degradation,19,0,1,1,
+Glycerolipid metabolism,64,0,1,1,
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,30,0,1,1,
+Glycerophospholipid metabolism,102,0,1,1,CHKB
+Ether lipid metabolism,51,0,1,1,
+Arachidonic acid metabolism,62,0,1,1,
+Pyruvate metabolism,49,0,1,1,
+One carbon pool by folate,37,0,1,1,
+Thiamine metabolism,15,0,1,1,
+Vitamin B6 metabolism,6,0,1,1,
+Retinol metabolism,69,0,1,1,
+Porphyrin metabolism,46,0,1,1,
+Aminoacyl-tRNA biosynthesis,43,0,1,1,
+Carbon metabolism,116,0,1,1,
+2-Oxocarboxylic acid metabolism,33,0,1,1,
+Fatty acid metabolism,56,0,1,1,
+Biosynthesis of amino acids,74,0,1,1,
+Nucleotide metabolism,83,0,1,1,
+Biosynthesis of cofactors,154,0,1,1,
+ABC transporters,45,0,1,1,
+Ribosome biogenesis in eukaryotes,76,0,1,1,
+Ribosome,177,0,1,1,
+Nucleocytoplasmic transport,107,0,1,1,
+mRNA surveillance pathway,95,0,1,1,
+RNA degradation,78,0,1,1,
+Basal transcription factors,43,0,1,1,
+Spliceosome,150,0,1,1,
+ATP-dependent chromatin remodeling,115,0,1,1,
+Viral life cycle - HIV-1,68,0,1,1,
+"Virion - Ebolavirus, Lyssavirus and Morbillivirus",12,0,1,1,
+Virion - Rotavirus,2,0,1,1,
+PPAR signaling pathway,76,0,1,1,
+Base excision repair,44,0,1,1,
+Nucleotide excision repair,62,0,1,1,
+Homologous recombination,41,0,1,1,
+Viral protein interaction with cytokine and cytokine receptor,99,0,1,1,
+NF-kappa B signaling pathway,104,0,1,1,
+p53 signaling pathway,75,0,1,1,
+Peroxisome,83,0,1,1,
+AMPK signaling pathway,120,0,1,1,
+Ferroptosis,41,0,1,1,
+Notch signaling pathway,62,0,1,1,
+ECM-receptor interaction,89,0,1,1,
+Cell adhesion molecule (CAM) interaction,155,0,1,1,
+Integrin signaling,153,0,1,1,
+Adherens junction,93,0,1,1,
+Complement and coagulation cascades,88,0,1,1,
+RIG-I-like receptor signaling pathway,72,0,1,1,
+Cytosolic DNA-sensing pathway,82,0,1,1,
+C-type lectin receptor signaling pathway,104,0,1,1,
+IL-17 signaling pathway,93,0,1,1,
+TNF signaling pathway,118,0,1,1,
+Intestinal immune network for IgA production,46,0,1,1,
+Synaptic vesicle cycle,78,0,1,1,
+Olfactory transduction,407,0,1,1,
+Insulin signaling pathway,139,0,1,1,
+Prolactin signaling pathway,70,0,1,1,
+Adipocytokine signaling pathway,70,0,1,1,
+Glucagon signaling pathway,105,0,1,1,
+Alcoholic liver disease,143,0,1,1,
+Fat digestion and absorption,43,0,1,1,
+Mineral absorption,60,0,1,1,
+Cholesterol metabolism,52,0,1,1,
+Folate transport and metabolism,30,0,1,1,
+Huntington disease,293,0,1,1,
+Cocaine addiction,49,0,1,1,
+Nicotine addiction,41,0,1,1,
+Alcoholism,174,0,1,1,
+Bacterial invasion of epithelial cells,77,0,1,1,
+Epithelial cell signaling in Helicobacter pylori infection,70,0,1,1,
+Shigellosis,244,0,1,1,
+Salmonella infection,247,0,1,1,
+Pertussis,77,0,1,1,
+Legionellosis,56,0,1,1,
+Malaria,50,0,1,1,
+Staphylococcus aureus infection,93,0,1,1,
+Renal cell carcinoma,68,0,1,1,
+Prostate cancer,105,0,1,1,
+Thyroid cancer,37,0,1,1,
+Melanoma,72,0,1,1,
+Bladder cancer,41,0,1,1,
+Chronic myeloid leukemia,76,0,1,1,
+Acute myeloid leukemia,67,0,1,1,
+Small cell lung cancer,92,0,1,1,
+Asthma,29,0,1,1,
+Autoimmune thyroid disease,51,0,1,1,
+Inflammatory bowel disease,64,0,1,1,
+Systemic lupus erythematosus,122,0,1,1,
+Rheumatoid arthritis,91,0,1,1,
+Riboflavin metabolism,8,0,1.0000000000000002,1,
+Biotin metabolism,3,0,1.0000000000000002,1,
+Graft-versus-host disease,39,0,1.0000000000000002,1,
+Steroid biosynthesis,20,0,1.0000000000000004,1,
+Arginine biosynthesis,23,0,1.0000000000000004,1,
+"Phenylalanine, tyrosine and tryptophan biosynthesis",6,0,1.0000000000000004,1,
+Taurine and hypotaurine metabolism,16,0,1.0000000000000004,1,
+Starch and sucrose metabolism,35,0,1.0000000000000004,1,
+Linoleic acid metabolism,30,0,1.0000000000000004,1,
+Pantothenate and CoA biosynthesis,21,0,1.0000000000000004,1,
+RNA polymerase,34,0,1.0000000000000004,1,
+Non-homologous end-joining,13,0,1.0000000000000004,1,
+SNARE interactions in vesicular transport,32,0,1.0000000000000004,1,
+Vitamin digestion and absorption,26,0,1.0000000000000004,1,
+Cobalamin transport and metabolism,18,0,1.0000000000000004,1,
+alpha-Linolenic acid metabolism,26,0,1.0000000000000007,1,
+Nitrogen metabolism,17,0,1.0000000000000007,1,
+Citrate cycle (TCA cycle),30,0,1.0000000000000009,1,
+Primary bile acid biosynthesis,17,0,1.0000000000000009,1,
+Other glycan degradation,18,0,1.0000000000000009,1,HEXD
+"Neomycin, kanamycin and gentamicin biosynthesis",5,0,1.0000000000000009,1,
+Lipoic acid metabolism,19,0,1.0000000000000009,1,
+Biosynthesis of unsaturated fatty acids,27,0,1.0000000000000009,1,
+Protein export,31,0,1.0000000000000009,1,
+Virion - Adenovirus,4,0,1.0000000000000009,1,
+Hippo signaling pathway - multiple species,29,0,1.0000000000000009,1,
+Renin-angiotensin system,23,0,1.0000000000000009,1,
+Biosynthesis of nucleotide sugars,37,0,1.000000000000001,1,
+Phototransduction,28,0,1.000000000000001,1,
+Pentose phosphate pathway,31,0,1.0000000000000013,1,
+"Valine, leucine and isoleucine biosynthesis",4,0,1.0000000000000013,1,
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin,24,0,1.0000000000000013,1,
+Biosynthesis of various nucleotide sugars,19,0,1.0000000000000013,1,
+Nicotinate and nicotinamide metabolism,37,0,1.0000000000000013,1,
+Fructose and mannose metabolism,36,0,1.0000000000000018,1,
+Caffeine metabolism,6,0,1.0000000000000018,1,
+Glycosaminoglycan biosynthesis - keratan sulfate,14,0,1.0000000000000018,1,
+DNA replication,36,0,1.0000000000000018,1,
+Maturity onset diabetes of the young,26,0,1.0000000000000018,1,
+Allograft rejection,36,0,1.000000000000002,1,
+Galactose metabolism,31,0,1.0000000000000022,1,
+Glycosphingolipid biosynthesis - globo and isoglobo series,16,0,1.0000000000000027,1,
+Ubiquinone and other terpenoid-quinone biosynthesis,12,0,1.000000000000003,1,

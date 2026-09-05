@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,pancreatic stellate cell proliferation,1,1,100,0.00283790574905467,1,IL13
+BP,negative regulation of lung ciliated cell differentiation,1,1,100,0.00283790574905467,1,IL13
+BP,regulation of lung goblet cell differentiation,1,1,100,0.00283790574905467,1,IL13
+BP,positive regulation of lung goblet cell differentiation,1,1,100,0.00283790574905467,1,IL13
+BP,regulation of pancreatic stellate cell proliferation,1,1,100,0.00283790574905467,1,IL13
+CC,L-cysteine desulfurase complex,2,1,50,0.01708142899531464,1,LYRM4
+CC,type III intermediate filament,3,1,33.33333333333333,0.01267176945126484,1,UPP2
+CC,TEAD-YAP complex,3,1,33.33333333333333,0.03112422668085174,1,TEAD1
+CC,"phosphatidylinositol 3-kinase complex, class III, type I",4,1,25,0.01689128724176835,1,PIK3C3
+CC,"phosphatidylinositol 3-kinase complex, class III, type II",4,1,25,0.01689128724176835,1,PIK3C3
+MF,2-methylacyl-CoA dehydrogenase activity,1,1,100,0.00256064481057718,1,ACADSB
+MF,isobutyryl-CoA:FAD oxidoreductase activity,1,1,100,0.00256064481057718,1,ACADSB
+MF,interleukin-13 receptor binding,1,1,100,0.00283790574905467,1,IL13
+MF,S-adenosyl-L-methionine transmembrane transporter activity,1,1,100,0.00916642449424025,1,SLC25A26
+MF,S-adenosyl-L-methionine:S-adenosyl-L-homocysteine antiporter activity,1,1,100,0.00916642449424025,1,SLC25A26

@@ -1,0 +1,5 @@
+# Asthma summary (SUMA de A1+A2+A3) (SUM_ASTHMA)
+
+| comparisons_included | n_FDR_lt_0_20 | n_FDR_lt_0_10 | n_FDR_lt_0_05 | n_Hits_05_Beta01 | n_p_lt_0_10 | n_p_lt_0_20 | top10_cpgs_por_comparacion | top10_genes_por_comparacion |
+| - | - | - | - | - | - | - | - | - |
+| asthma_GLOBAL_vs_CONTROLS + asthma_ATOPIC_vs_Control_Atopic + asthma_NONATOPIC_vs_Control_NonAtopic | 139266 | 63776 | 26673 | 23378 | 139266 | 139266 | asthma_GLOBAL_vs_CONTROLS: cg26287822, cg13211008, cg22256607, cg00258945, cg11789991, cg00143986, cg05712748, cg00704664, cg09885502, cg11431762 | asthma_ATOPIC_vs_Control_Atopic: cg26287822, cg11431762, cg18319941, cg15132295, cg13211008, cg11574174, cg24439623, cg02356645, cg22723460, cg08603678 | asthma_NONATOPIC_vs_Control_NonAtopic: cg01695620 | asthma_GLOBAL_vs_CONTROLS: ZCCHC16, ESYT2, ANK1, MAN2A1, GPR133, CDH4, GNAS, HMG20B, TAP2, ATXN1 | asthma_ATOPIC_vs_Control_Atopic: ZCCHC16, HMG20B, DNAH17, ESYT2, HLA-C, ABR, EIF3E, ARHGEF12, CDH4, DOCK1 | asthma_NONATOPIC_vs_Control_NonAtopic:  |

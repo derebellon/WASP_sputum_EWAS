@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,very long-chain fatty acid beta-oxidation,1,1,100,0.00386376106539702,1,ACOX1
+BP,assembly of large subunit precursor of preribosome,1,1,100,0.00467665440861163,1,EIF6
+BP,Fc receptor-mediated immune complex endocytosis,1,1,100,0.00553174156901597,1,FCER2
+BP,CTP catabolic process,1,1,100,0.00631353194467454,1,ENTPD7
+BP,pyrimidine ribonucleoside triphosphate catabolic process,1,1,100,0.00631353194467454,1,ENTPD7
+CC,podosome ring,1,1,100,0.01800827882492363,1,VCL
+CC,H zone,1,1,100,0.02257402892004707,1,DST
+CC,pyruvate dehydrogenase (lipoamide) phosphatase complex,2,1,50,0.01175763887459733,1,PDPR
+CC,electron transfer flavoprotein complex,2,1,50,0.01362884150126267,1,ETFB
+CC,vacuolar HOPS complex,2,1,50,0.02060614609581803,1,VPS39
+MF,interleukin-20 receptor binding,1,1,100,0.00240344760132625,1,IL20
+MF,interleukin-1 type I receptor antagonist activity,1,1,100,0.00510390840489048,1,IL1RN
+MF,interleukin-1 type II receptor antagonist activity,1,1,100,0.00510390840489048,1,IL1RN
+MF,low-affinity IgE receptor activity,1,1,100,0.00553174156901597,1,FCER2
+MF,interleukin-33 binding,1,1,100,0.00566046988606711,1,IL1RL1

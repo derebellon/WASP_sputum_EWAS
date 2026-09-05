@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,pancreatic stellate cell proliferation,1,1,100,0.00185008186746553,1,IL13
+BP,negative regulation of lung ciliated cell differentiation,1,1,100,0.00185008186746553,1,IL13
+BP,regulation of lung goblet cell differentiation,1,1,100,0.00185008186746553,1,IL13
+BP,positive regulation of lung goblet cell differentiation,1,1,100,0.00185008186746553,1,IL13
+BP,regulation of pancreatic stellate cell proliferation,1,1,100,0.00185008186746553,1,IL13
+CC,PCNA complex,1,1,100,0.00769334527266948,1,PCNA
+CC,DNA polymerase processivity factor complex,1,1,100,0.00769334527266948,1,PCNA
+CC,U11/U12 snRNP,1,1,100,0.00785019667737681,1,SF3B1
+CC,PCNA-p21 complex,2,1,50,0.01716201226257802,1,PCNA
+CC,alpha9-beta1 integrin-ADAM8 complex,2,1,50,0.02330084039355925,1,ADAM8
+MF,protein N-acetylglucosaminyltransferase activity,1,1,100,0.00179139546689613,1,B3GNT8
+MF,interleukin-13 receptor binding,1,1,100,0.00185008186746553,1,IL13
+MF,"5-oxo-6E,8Z,11Z,14Z-icosatetraenoic acid binding",1,1,100,0.00223393947891002,1,OXER1
+MF,"5-hydroxy-6E,8Z,11Z,14Z-icosatetraenoic acid binding",1,1,100,0.00223393947891002,1,OXER1
+MF,"5(S)-hydroxyperoxy-6E,8Z,11Z,14Z-icosatetraenoic acid binding",1,1,100,0.00223393947891002,1,OXER1

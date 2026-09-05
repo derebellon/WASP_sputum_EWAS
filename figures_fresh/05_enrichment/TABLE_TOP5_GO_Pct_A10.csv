@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,gamma-delta T cell activation involved in immune response,1,1,100,0.00572645655067454,1,LILRB1
+BP,regulation of gamma-delta T cell activation involved in immune response,1,1,100,0.00572645655067454,1,LILRB1
+BP,positive regulation of gamma-delta T cell activation involved in immune response,1,1,100,0.00572645655067454,1,LILRB1
+BP,selenocysteine catabolic process,1,1,100,0.00709394320161721,1,SCLY
+BP,division septum assembly,1,1,100,0.01363549795185318,1,BIN3
+CC,MAD1 complex,1,1,100,0.01979052495842932,1,MAD1L1
+CC,electron transfer flavoprotein complex,2,1,50,0.01165501576364544,1,ETFB
+CC,mitotic spindle assembly checkpoint MAD1-MAD2 complex,2,1,50,0.02363397234627253,1,MAD1L1
+CC,apoptosome,3,1,33.33333333333333,0.01829418465198716,1,CASP9
+CC,alphav-beta3 integrin-PKCalpha complex,3,1,33.33333333333333,0.03439635522595664,1,PRKCA
+MF,anti-Mullerian hormone receptor activity,1,1,100,0.00331181373012965,1,AMHR2
+MF,motilin receptor binding,1,1,100,0.00392034052847141,1,MLN
+MF,HLA-A specific inhibitory MHC class I receptor activity,1,1,100,0.00572645655067454,1,LILRB1
+MF,selenocysteine lyase activity,1,1,100,0.00709394320161721,1,SCLY
+MF,ribosylnicotinate kinase activity,2,1,50,0.00815322327138128,1,NMRK2

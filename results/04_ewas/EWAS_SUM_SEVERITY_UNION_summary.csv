@@ -1,0 +1,2 @@
+n_FDR_lt_0_20,n_FDR_lt_0_10,n_FDR_lt_0_05,n_Hits_05_Beta01,n_p_lt_0_10,n_p_lt_0_20,comparisons_included,top10_cpgs_por_comparacion,top10_genes_por_comparacion
+132,0,0,0,132,132,severity_INDEPENDENT + severity_ATOPIC_C1_vs_C3,"severity_INDEPENDENT: cg18032891 | severity_ATOPIC_C1_vs_C3: cg18032891, cg17179455, cg11659652, cg23339014, cg14898318, cg06592918, cg08467103, cg03181212, cg14513031, cg08086385","severity_INDEPENDENT: C8orf48 | severity_ATOPIC_C1_vs_C3: C8orf48, ETS1, PTPRE, PRKCH, OPA3, PQLC1, SPRED2, AKAP13, DAB2IP, RYBP"

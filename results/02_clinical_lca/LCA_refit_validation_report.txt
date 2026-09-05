@@ -1,0 +1,53 @@
+LCA refit reproducibility check (fresh fit vs frozen 183)
+R: R version 4.3.3 (2024-02-29) | poLCA: 1.6.0.1 | mice: 3.17.0 
+
+Fresh fit log-likelihood: -3556.5484
+Same-seed determinism (two identical calls give identical llik): TRUE
+
+Log-likelihoods across the 10 random starts (nrep) — a recurring maximum = a stable solution:
+ [1] -3556.548 -3556.548 -3556.548 -3556.548 -3556.548 -3556.584 -3585.137
+ [8] -3601.957 -3601.960 -3602.567
+Best hit 5/10 times (within 0.01 of the max).
+
+Fresh full-cohort class sizes (arbitrary numbering):
+
+ C1  C2  C3  C4  C5  C6 
+155  54 625 183 164 173 
+
+Manuscript full-cohort sizes were: 358/300/185/291/49/171 (n=1354)
+
+Contingency frozen label (rows) x fresh class (cols), 183 EWAS participants:
+                                                       
+                                                        C1 C2 C3 C4 C5 C6
+  Asthmatic, atopic, mild/moderate, well controlled      0  0 88  0  1  0
+  Asthmatic, highly atopic, severe/uncontrolled         17  0  0  0  0  0
+  Asthmatic, non-atopic, mild/moderate, well controlled  1  6  6  0 25  0
+  Asthmatic, non-atopic, severe/uncontrolled             0  7  0  0  0  0
+  Control, atopic                                        0  0  0  0  0 23
+  Control, non-atopic                                    0  0  0  9  0  0
+
+Best fresh-class -> frozen-label mapping (by max overlap):
+                                                     C3 
+    "Asthmatic, atopic, mild/moderate, well controlled" 
+                                                     C5 
+"Asthmatic, non-atopic, mild/moderate, well controlled" 
+                                                     C6 
+                                      "Control, atopic" 
+                                                     C1 
+        "Asthmatic, highly atopic, severe/uncontrolled" 
+                                                     C4 
+                                  "Control, non-atopic" 
+                                                     C2 
+           "Asthmatic, non-atopic, severe/uncontrolled" 
+
+AGREEMENT on the 183 (same class up to relabelling): 92.3% (169 of 183)
+
+Interpretation:
+ - Agreement ~100%% (up to relabelling) = pure LABEL SWITCHING: the same solution,
+   only the class numbers permuted. Our primary bug is exactly this (labels were
+   hardcoded by class number). Freezing + the profile-independent join fully fix it.
+ - Agreement well below 100%% = a genuinely DIFFERENT six-class solution (partition
+   changed), from a different EM optimum or a different imputation/data state. Then
+   the freeze is essential because a fresh fit does not reproduce the manuscript.
+ - Compare the fresh llik above with the recurring maximum across starts: a maximum
+   hit repeatedly is evidence of a stable global solution regardless of numbering.

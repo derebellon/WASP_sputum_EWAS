@@ -1,0 +1,2 @@
+probeID,best_comparison,min_fdr,min_p,n_comparisons_pass,beta_best,gene,chromosome,position
+cg19726630,severity_INDEPENDENT,0.09274648414349693,1.0732658622961808e-7,1,0.23496591431487435,CMTM8,3,32400704

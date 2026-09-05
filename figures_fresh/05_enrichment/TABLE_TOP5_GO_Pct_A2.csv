@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,CMP-N-acetylneuraminate transmembrane transport,1,1,100,0.00492404931355176,1,SLC35A1
+BP,cellular response to methionine,1,1,100,0.0056576898577617,1,BMT2
+BP,positive regulation of cell proliferation involved in heart valve morphogenesis,1,1,100,0.00750470182222675,1,SMAD4
+BP,female gonad morphogenesis,1,1,100,0.00750470182222675,1,SMAD4
+BP,regulation of cardiac myofibril assembly,1,1,100,0.00750470182222675,1,SMAD4
+CC,cerebellar Golgi cell to granule cell synapse,1,1,100,0.00368117964430959,1,GABRA6
+CC,H zone,1,1,100,0.016587165246238902,1,DST
+CC,activin responsive factor complex,3,2,66.66666666666666,1.2001779697227364e-4,1,"SMAD2,SMAD4"
+CC,Golgi to plasma membrane transport vesicle,2,1,50,0.01258223192724787,1,RAB3IP
+CC,beta-N-acetylhexosaminidase complex,2,1,50,0.01391519731156151,1,HEXB
+MF,CMP-N-acetylneuraminate transmembrane transporter activity,1,1,100,0.00492404931355176,1,SLC35A1
+MF,heparan sulfate 2-O-sulfotransferase activity,1,1,100,0.01113190336420443,1,HS2ST1
+MF,"3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase activity",1,1,100,0.01152836034166027,1,HSD17B4
+MF,inward rectifier potassium channel inhibitor activity,1,1,100,0.01369343108170906,1,CAV1
+MF,mannose transmembrane transporter activity,1,1,100,0.01402441094092214,1,SLC5A10

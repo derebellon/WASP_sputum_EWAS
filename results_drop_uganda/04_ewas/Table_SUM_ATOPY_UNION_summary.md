@@ -1,0 +1,5 @@
+# Atopy summary (SUMA de A4+A5+A6) (SUM_ATOPY)
+
+| comparisons_included | n_FDR_lt_0_20 | n_FDR_lt_0_10 | n_FDR_lt_0_05 | n_Hits_05_Beta01 | n_p_lt_0_10 | n_p_lt_0_20 | top10_cpgs_por_comparacion | top10_genes_por_comparacion |
+| - | - | - | - | - | - | - | - | - |
+| atopy_CONTROLS_C6_vs_C4 + atopy_IN_ASTHMA + atopy_GLOBAL | 8491 | 0 | 0 | 0 | 8491 | 8491 | atopy_CONTROLS_C6_vs_C4:  | atopy_IN_ASTHMA: cg23803868, cg02006792, cg08354527, cg26941787, cg02355809, cg16496709, cg15988321, cg17328806, cg16997920, cg00997387 | atopy_GLOBAL:  | atopy_CONTROLS_C6_vs_C4:  | atopy_IN_ASTHMA: SPPL2B, GIMAP1, FBXO8, COX11, SPARCL1, PCNXL2, MYH11, AOX1, UBASH3B, C1QTNF4 | atopy_GLOBAL:  |

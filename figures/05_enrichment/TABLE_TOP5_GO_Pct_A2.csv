@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,CMP-N-acetylneuraminate transmembrane transport,1,1,100,0.004685264021863,1,SLC35A1
+BP,positive regulation of cell proliferation involved in heart valve morphogenesis,1,1,100,0.00753470069214047,1,SMAD4
+BP,female gonad morphogenesis,1,1,100,0.00753470069214047,1,SMAD4
+BP,regulation of cardiac myofibril assembly,1,1,100,0.00753470069214047,1,SMAD4
+BP,negative regulation of cardiac myofibril assembly,1,1,100,0.00753470069214047,1,SMAD4
+CC,cerebellar Golgi cell to granule cell synapse,1,1,100,0.00325965048139167,1,GABRA6
+CC,axonemal central pair projection,1,1,100,0.0161433219061309,1,HYDIN
+CC,cyclin D2-CDK6 complex,1,1,100,0.01655316632764958,1,CDK6
+CC,H zone,1,1,100,0.01676530128671409,1,DST
+CC,RAVE complex,3,2,66.66666666666666,1.8652353167727552e-4,1,"DMXL1,DMXL2"
+MF,CMP-N-acetylneuraminate transmembrane transporter activity,1,1,100,0.004685264021863,1,SLC35A1
+MF,glyceryl-ether monooxygenase activity,1,1,100,0.00552793416132056,1,AGMO
+MF,heparan sulfate 2-O-sulfotransferase activity,1,1,100,0.01108562405392764,1,HS2ST1
+MF,"3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase activity",1,1,100,0.01149834986226287,1,HSD17B4
+MF,mannose transmembrane transporter activity,1,1,100,0.01420298465059233,1,SLC5A10

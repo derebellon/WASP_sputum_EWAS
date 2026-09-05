@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,positive regulation of protein import,1,1,100,0.00153254094333953,1,ARHGEF5
+BP,CTP catabolic process,1,1,100,0.00665222903384781,1,ENTPD7
+BP,pyrimidine ribonucleoside triphosphate catabolic process,1,1,100,0.00665222903384781,1,ENTPD7
+BP,UTP catabolic process,1,1,100,0.00665222903384781,1,ENTPD7
+BP,cellular response to gravity,1,1,100,0.0085331467496469,1,PTAFR
+CC,SMN-Gemin2 complex,1,1,100,0.00349359323516438,1,GEMIN5
+CC,H zone,1,1,100,0.02237432161980751,1,DST
+CC,phenylalanine-tRNA ligase complex,2,1,50,0.01194045250083931,1,FARSA
+CC,pyruvate dehydrogenase (lipoamide) phosphatase complex,2,1,50,0.01200787658874356,1,PDPR
+CC,electron transfer flavoprotein complex,2,1,50,0.01500040792980498,1,ETFB
+MF,interleukin-20 receptor binding,1,1,100,0.00233742484695507,1,IL20
+MF,phosphatidylcholine-sterol O-acyltransferase activity,1,1,100,0.00323000869376102,1,LCAT
+MF,dihydrolipoyllysine-residue succinyltransferase activity,1,1,100,0.00616632281878146,1,DLST
+MF,S-succinyltransferase activity,1,1,100,0.00616632281878146,1,DLST
+MF,tyrosine 3-monooxygenase activator activity,1,1,100,0.00884550069678051,1,PARK7

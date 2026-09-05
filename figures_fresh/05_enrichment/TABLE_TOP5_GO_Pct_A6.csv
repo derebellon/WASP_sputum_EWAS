@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,toll-like receptor 6 signaling pathway,1,1,100,0.00290973272795906,1,TREM2
+BP,regulation of toll-like receptor 6 signaling pathway,1,1,100,0.00290973272795906,1,TREM2
+BP,C-C chemokine receptor CCR7 signaling pathway,1,1,100,0.00290973272795906,1,TREM2
+BP,"positive regulation of complement activation, classical pathway",1,1,100,0.00290973272795906,1,TREM2
+BP,detection of lipoteichoic acid,1,1,100,0.00290973272795906,1,TREM2
+CC,COPI-coated Golgi to ER transport vesicle,1,1,100,0.01126829211119186,1,CCDC88A
+CC,integrin alphaL-beta2 complex,2,1,50,0.02767796352541503,1,ITGAL
+CC,early phagosome membrane,2,1,50,0.03095801857898431,1,RAB31
+CC,ciliary pocket,3,1,33.33333333333333,0.02530870634141388,1,EHD1
+CC,ciliary pocket membrane,3,1,33.33333333333333,0.02530870634141388,1,EHD1
+MF,nicotinamide N-methyltransferase activity,1,1,100,0.00376485273805698,1,NNMT
+MF,pyridine N-methyltransferase activity,1,1,100,0.00376485273805698,1,NNMT
+MF,creatine:sodium symporter activity,1,1,100,0.00625925588769675,1,SLC6A8
+MF,neurotrophin TRKB receptor binding,1,1,100,0.01730551553779995,1,EFNA5
+MF,neurotrophin TRKC receptor binding,1,1,100,0.01730551553779995,1,EFNA5

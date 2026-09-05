@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex,1,1,100,0.00286971936322133,1,RAMAC
+BP,cellular response to lipid hydroperoxide,1,1,100,0.00477086465475123,1,MGST1
+BP,gamma-delta T cell activation involved in immune response,1,1,100,0.00499751377899529,1,LILRB1
+BP,regulation of gamma-delta T cell activation involved in immune response,1,1,100,0.00499751377899529,1,LILRB1
+BP,positive regulation of gamma-delta T cell activation involved in immune response,1,1,100,0.00499751377899529,1,LILRB1
+CC,translation initiation ternary complex,1,1,100,0.0032451456116064,1,EIF2S1
+CC,late recombination nodule,1,1,100,0.00770400852407702,1,MLH1
+CC,pinceau fiber,1,1,100,0.01863563140157897,1,KCNAB2
+CC,MAD1 complex,1,1,100,0.01959038814636225,1,MAD1L1
+CC,mRNA cap methyltransferase complex,2,1,50,0.00584758012151662,1,RAMAC
+MF,anti-Mullerian hormone receptor activity,1,1,100,0.00255539259355812,1,AMHR2
+MF,motilin receptor binding,1,1,100,0.00272182542619342,1,MLN
+MF,interleukin-1 type I receptor antagonist activity,1,1,100,0.00306932001905753,1,IL1RN
+MF,interleukin-1 type II receptor antagonist activity,1,1,100,0.00306932001905753,1,IL1RN
+MF,HLA-A specific inhibitory MHC class I receptor activity,1,1,100,0.00499751377899529,1,LILRB1

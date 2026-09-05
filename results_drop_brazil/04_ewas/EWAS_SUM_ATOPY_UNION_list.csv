@@ -1,0 +1,2 @@
+probeID,best_comparison,min_fdr,min_p,n_comparisons_pass,beta_best,gene,chromosome,position
+cg22446445,atopy_IN_ASTHMA,0.01073980379427796,1.2428142033204765e-8,2,-0.03671763692516806,VIL1,2,219303984

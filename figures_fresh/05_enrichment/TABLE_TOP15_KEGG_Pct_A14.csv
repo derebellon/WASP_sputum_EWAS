@@ -1,0 +1,16 @@
+Description,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+Riboflavin metabolism,8,1,12.5,0.04338530784075525,1,ENPP3
+Glycosphingolipid biosynthesis - ganglio series,15,1,6.666666666666667,0.14418362168791174,1,HEXB
+Glycosphingolipid biosynthesis - globo and isoglobo series,16,1,6.25,0.10614065467246064,1,HEXB
+Primary bile acid biosynthesis,17,1,5.88235294117647,0.0898620401111892,1,HSD17B4
+Virion - Lassa virus and SFTS virus,17,1,5.88235294117647,0.15478195736239328,1,MYH9
+Mucin type O-glycan biosynthesis,36,2,5.555555555555555,0.04261934227414427,1,"B3GNT3,GALNTL6"
+Other glycan degradation,18,1,5.555555555555555,0.13800051982528358,1,HEXB
+Glycosaminoglycan degradation,19,1,5.263157894736842,0.1508127834221519,1,HEXB
+Pantothenate and CoA biosynthesis,21,1,4.761904761904762,0.15841963934339082,1,ENPP3
+Renin-angiotensin system,23,1,4.3478260869565215,0.1253342732988504,1,LNPEP
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin,24,1,4.166666666666666,0.19185228691297143,1,HS2ST1
+Biosynthesis of unsaturated fatty acids,27,1,3.7037037037037033,0.20196970214137783,1,HSD17B4
+Folate biosynthesis,28,1,3.571428571428571,0.15160179039489202,1,GPHN
+Glycosphingolipid biosynthesis - lacto and neolacto series,28,1,3.571428571428571,0.1800750207636725,1,B3GNT3
+Fatty acid elongation,28,1,3.571428571428571,0.18630125836324177,1,THEM5

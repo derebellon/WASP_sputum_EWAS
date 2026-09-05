@@ -1,0 +1,9 @@
+"ID","Collection","Status","Used_Tier","Input_CpGs","Terms_Found"
+"Sputum_Eosinophilic","KEGG","Success","Tier2_Beta05",19998,26
+"Sputum_Eosinophilic","GO","Success","Tier1_Beta10",3094,50
+"Sputum_Mixed granulocytic","KEGG","Success","Tier1_Beta10",15040,32
+"Sputum_Mixed granulocytic","GO","Success","Tier1_Beta10",15040,318
+"Sputum_Neutrophilic","KEGG","Success","Tier1_Beta10",4291,1
+"Sputum_Neutrophilic","GO","Success","Tier1_Beta10",4291,67
+"Sputum_Paucigranulocytic","KEGG","Success","Tier1_Beta10",82,1
+"Sputum_Paucigranulocytic","GO","Success","Tier2_Beta05",6455,368

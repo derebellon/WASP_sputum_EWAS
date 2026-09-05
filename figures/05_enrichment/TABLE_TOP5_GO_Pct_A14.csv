@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,actin phosphorylation,1,1,100,0.00449939110947694,1,TWF1
+BP,regulation of actin phosphorylation,1,1,100,0.00449939110947694,1,TWF1
+BP,spike train,1,1,100,0.01150224639337456,1,SLC8A2
+BP,regulation of action potential firing pattern,1,1,100,0.01150224639337456,1,SLC8A2
+BP,eukaryotic translation initiation factor 4F complex assembly,1,1,100,0.01235307867859535,1,EIF4G1
+CC,growth cone leading edge,1,1,100,0.00467933041192682,1,ARPC3
+CC,autosome,4,2,50,3.28667272095945e-4,1,"SIN3B,MAEL"
+CC,Y chromosome,2,1,50,0.01214075156925994,1,SIN3B
+CC,peripheral region of growth cone,2,1,50,0.01981948373705096,1,ARPC3
+CC,amino acid transport complex,2,1,50,0.02244321191368099,1,SLC7A5
+MF,quinine 3-monooxygenase activity,1,1,100,0.00311858662947259,1,CYP3A4
+MF,"1,8-cineole 2-exo-monooxygenase activity",1,1,100,0.00311858662947259,1,CYP3A4
+MF,dihydroorotate dehydrogenase activity,1,1,100,0.00634044119624451,1,DHODH
+MF,dihydroorotate dehydrogenase (quinone) activity,1,1,100,0.00634044119624451,1,DHODH
+MF,high-affinity basic amino acid transmembrane transporter activity,1,1,100,0.00998907065812722,1,SLC25A29

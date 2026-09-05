@@ -1,0 +1,5 @@
+"Phenotype","Hits","csv"
+"Eosinophilic",92297,"results/06_sensitivity_inflammatory/EWAS_SENSITIVITY_Sputum_Eosinophilic_vs_Rest.csv"
+"Mixed granulocytic",138012,"results/06_sensitivity_inflammatory/EWAS_SENSITIVITY_Sputum_Mixed granulocytic_vs_Rest.csv"
+"Neutrophilic",21190,"results/06_sensitivity_inflammatory/EWAS_SENSITIVITY_Sputum_Neutrophilic_vs_Rest.csv"
+"Paucigranulocytic",7643,"results/06_sensitivity_inflammatory/EWAS_SENSITIVITY_Sputum_Paucigranulocytic_vs_Rest.csv"

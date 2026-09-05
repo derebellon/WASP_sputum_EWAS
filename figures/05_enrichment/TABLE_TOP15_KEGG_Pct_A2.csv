@@ -1,0 +1,16 @@
+Description,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+Sulfur cycle,2,1,50,0.01886345874254494,1,PAPSS2
+Sulfur metabolism,10,1,10,0.0572486484582753,1,PAPSS2
+Glycosphingolipid biosynthesis - ganglio series,15,1,6.666666666666667,0.14822717053451165,1,HEXB
+Taurine and hypotaurine metabolism,16,1,6.25,0.10062240961383093,1,FMO2
+Glycosphingolipid biosynthesis - globo and isoglobo series,16,1,6.25,0.1058522558416668,1,HEXB
+Circadian rhythm,34,2,5.88235294117647,0.03581630309275485,1,"CREB1,NPAS2"
+Primary bile acid biosynthesis,17,1,5.88235294117647,0.0884828330399844,1,HSD17B4
+Selenocompound metabolism,17,1,5.88235294117647,0.11931495846867446,1,PAPSS2
+Mucin type O-glycan biosynthesis,36,2,5.555555555555555,0.04438452356561664,1,"B3GNT3,GALNTL6"
+Other glycan degradation,18,1,5.555555555555555,0.1402097427160022,1,HEXB
+Glycosaminoglycan degradation,19,1,5.263157894736842,0.15273815595860807,1,HEXB
+Various types of N-glycan biosynthesis,44,2,4.545454545454546,0.0506867143920331,1,"HEXB,ALG13"
+Mannose type O-glycan biosynthesis,23,1,4.3478260869565215,0.17253324850045976,1,FKTN
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin,24,1,4.166666666666666,0.1949997864779677,1,HS2ST1
+Pancreatic cancer,76,3,3.9473684210526314,0.03740437102116421,1,"CDK6,EGF,SMAD4,RB1"

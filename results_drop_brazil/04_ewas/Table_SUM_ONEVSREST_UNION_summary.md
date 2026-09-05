@@ -1,0 +1,5 @@
+# One-vs-rest summary (SUMA de A9–A14) (SUM_ONEVSREST)
+
+| comparisons_included | n_FDR_lt_0_20 | n_FDR_lt_0_10 | n_FDR_lt_0_05 | n_Hits_05_Beta01 | n_p_lt_0_10 | n_p_lt_0_20 | top10_cpgs_por_comparacion | top10_genes_por_comparacion |
+| - | - | - | - | - | - | - | - | - |
+| phenotype_signature_C1_vs_rest + phenotype_signature_C2_vs_rest + phenotype_signature_C3_vs_rest + phenotype_signature_C4_vs_rest + phenotype_signature_C5_vs_rest + phenotype_signature_C6_vs_rest | 52 | 28 | 22 | 22 | 52 | 52 | phenotype_signature_C1_vs_rest:  | phenotype_signature_C2_vs_rest: cg11657520, cg25361454, cg11606607, cg19726630, cg03529720, cg16434774, cg08571639, cg02401524, cg18920697, cg00102615 | phenotype_signature_C3_vs_rest:  | phenotype_signature_C4_vs_rest:  | phenotype_signature_C5_vs_rest:  | phenotype_signature_C6_vs_rest:  | phenotype_signature_C1_vs_rest:  | phenotype_signature_C2_vs_rest: PDK1, ADAP1, RNF213, CMTM8, TBCD, PDE4B, LRRFIP1, NOTCH1, GLI2, ATP10A | phenotype_signature_C3_vs_rest:  | phenotype_signature_C4_vs_rest:  | phenotype_signature_C5_vs_rest:  | phenotype_signature_C6_vs_rest:  |
