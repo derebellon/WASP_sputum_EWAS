@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,S-adenosyl-L-methionine transport,1,1,100,0.00733451689614599,1,SLC25A26
+BP,S-adenosyl-L-methionine transmembrane transport,1,1,100,0.00733451689614599,1,SLC25A26
+BP,mitochondrial S-adenosyl-L-methionine transmembrane transport,1,1,100,0.00733451689614599,1,SLC25A26
+BP,cardiac chamber ballooning,1,1,100,0.01551421544726322,1,ADPRHL1
+BP,right ventricular compact myocardium morphogenesis,1,1,100,0.01679250331997141,1,CHD7
+CC,protein C inhibitor-TMPRSS7 complex,1,1,100,0.0023846792472769,1,SERPINA5
+CC,protein C inhibitor-TMPRSS11E complex,1,1,100,0.0023846792472769,1,SERPINA5
+CC,protein C inhibitor-PLAT complex,1,1,100,0.0023846792472769,1,SERPINA5
+CC,protein C inhibitor-PLAU complex,1,1,100,0.0023846792472769,1,SERPINA5
+CC,protein C inhibitor-thrombin complex,1,1,100,0.0023846792472769,1,SERPINA5
+MF,25-hydroxycholesterol 7alpha-hydroxylase activity,1,1,100,0.00666530368509181,1,CYP7B1
+MF,27-hydroxycholesterol 7-alpha-monooxygenase activity,1,1,100,0.00666530368509181,1,CYP7B1
+MF,S-adenosyl-L-methionine transmembrane transporter activity,1,1,100,0.00733451689614599,1,SLC25A26
+MF,S-adenosyl-L-methionine:S-adenosyl-L-homocysteine antiporter activity,1,1,100,0.00733451689614599,1,SLC25A26
+MF,"hydrolase activity, acting on acid anhydrides, in sulfonyl-containing anhydrides",1,1,100,0.01754740509374368,1,FHIT

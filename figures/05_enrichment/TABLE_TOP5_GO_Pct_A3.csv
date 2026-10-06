@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,meiotic spindle elongation,1,1,100,0.00494154807095566,1,PPP2R1A
+BP,negative regulation of growth rate,1,1,100,0.00597629064131245,1,TMPRSS4
+BP,vacuolar sequestering,1,1,100,0.00687998681647019,1,GAA
+BP,peripheral B cell tolerance induction,1,1,100,0.01151411690201358,1,HLA-G
+BP,negative regulation of lung blood pressure,1,1,100,0.01494298394645881,1,SMAD3
+CC,autolysosome lumen,1,1,100,0.00687998681647019,1,GAA
+CC,MAD1 complex,1,1,100,0.01572390751501805,1,MAD1L1
+CC,cyclin K-CDK13 complex,2,1,50,0.01084392337491571,1,CDK13
+CC,mitotic spindle assembly checkpoint MAD1-MAD2 complex,2,1,50,0.01860717879756536,1,MAD1L1
+CC,muscle tendon junction,4,1,25,0.02056748217356257,1,NRAP
+MF,hexaprenyldihydroxybenzoate methyltransferase activity,1,1,100,0.00290055347901526,1,COQ3
+MF,3-demethylubiquinone-9 3-O-methyltransferase activity,1,1,100,0.00290055347901526,1,COQ3
+MF,"3,4-dihydroxy-5-polyprenylbenzoic acid O-methyltransferase activity",1,1,100,0.00290055347901526,1,COQ3
+MF,decaprenyldihydroxybenzoate methyltransferase activity,1,1,100,0.00290055347901526,1,COQ3
+MF,3-demethylubiquinol-10 3-O-methyltransferase activity,1,1,100,0.00290055347901526,1,COQ3

@@ -1,0 +1,16 @@
+Description,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+Glycosphingolipid biosynthesis - ganglio series,15,1,6.666666666666667,0.16233619126343496,1,HEXB
+Glycosphingolipid biosynthesis - globo and isoglobo series,16,1,6.25,0.11101623401339998,1,HEXB
+Cortisol synthesis and secretion,65,4,6.153846153846154,0.00606126140254864,1,"ADCY9,CREB1,PLCB1,PDE8B"
+Circadian rhythm,34,2,5.88235294117647,0.04095193575552777,1,"CREB1,NPAS2"
+Other glycan degradation,18,1,5.555555555555555,0.15276855142510565,1,HEXB
+Thyroid hormone synthesis,75,4,5.333333333333334,0.00646027054879858,1,"ADCY9,CREB1,ALB,PLCB1"
+Glycosaminoglycan degradation,19,1,5.263157894736842,0.1647726097700515,1,HEXB
+Pantothenate and CoA biosynthesis,21,1,4.761904761904762,0.17114636089483218,1,DPYD
+Vasopressin-regulated water reabsorption,44,2,4.545454545454546,0.05435188394824918,1,"ADCY9,CREB1"
+Various types of N-glycan biosynthesis,44,2,4.545454545454546,0.05728038640786093,1,"HEXB,ALG13"
+Carbohydrate digestion and absorption,46,2,4.3478260869565215,0.06121704451968479,1,"PLCB1,GNAT3"
+"Valine, leucine and isoleucine degradation",48,2,4.166666666666666,0.05484436849505515,1,"ACADSB,OXCT1"
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin,24,1,4.166666666666666,0.21001776159492289,1,HS2ST1
+Vibrio cholerae infection,50,2,4,0.07139641590136842,1,"ADCY9,TJP2"
+Melanogenesis,101,4,3.9603960396039604,0.01979204423431425,1,"ADCY9,CREB1,CTNNB1,PLCB1"

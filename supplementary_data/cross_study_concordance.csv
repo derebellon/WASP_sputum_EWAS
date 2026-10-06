@@ -1,0 +1,10 @@
+external_study,our_signature,our_n_DMPs,external_n_CpGs,shared_CpGs,hypergeometric_p
+"Reese 2019 (childhood asthma, blood; 179 CpGs)",A1 (global asthma),23378,179,0,1.0e+00
+"Reese 2019 (childhood asthma, blood; 179 CpGs)",C1 (severe atopic),2479,179,59,4.4e-103
+"Reese 2019 (childhood asthma, blood; 179 CpGs)",C2 (severe non-atopic),33,179,0,1.0e+00
+"Xu/MeDALL 2018 (childhood asthma, blood; 35 CpGs)",A1 (global asthma),23378,35,0,1.0e+00
+"Xu/MeDALL 2018 (childhood asthma, blood; 35 CpGs)",C1 (severe atopic),2479,35,6,8.4e-10
+"Xu/MeDALL 2018 (childhood asthma, blood; 35 CpGs)",C2 (severe non-atopic),33,35,0,1.0e+00
+"Perez-Garcia/Pino-Yanes 2026 (severe exacerbations, blood; 505 CpGs)",A1 (global asthma),23378,505,2,1.0e+00
+"Perez-Garcia/Pino-Yanes 2026 (severe exacerbations, blood; 505 CpGs)",C1 (severe atopic),2479,505,8,1.3e-04
+"Perez-Garcia/Pino-Yanes 2026 (severe exacerbations, blood; 505 CpGs)",C2 (severe non-atopic),33,505,0,1.0e+00

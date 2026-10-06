@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,CMP-N-acetylneuraminate transmembrane transport,1,1,100,0.00529876744576021,1,SLC35A1
+BP,positive regulation of cell proliferation involved in heart valve morphogenesis,1,1,100,0.00754793444504646,1,SMAD4
+BP,female gonad morphogenesis,1,1,100,0.00754793444504646,1,SMAD4
+BP,regulation of cardiac myofibril assembly,1,1,100,0.00754793444504646,1,SMAD4
+BP,negative regulation of cardiac myofibril assembly,1,1,100,0.00754793444504646,1,SMAD4
+CC,cerebellar Golgi cell to granule cell synapse,1,1,100,0.00361628395850208,1,GABRA6
+CC,Rad6-Rad18 complex,1,1,100,0.00724339284717029,1,RAD18
+CC,collagen type XII trimer,1,1,100,0.01415957949532028,1,COL12A1
+CC,axonemal central pair projection,1,1,100,0.01520264352181581,1,HYDIN
+CC,H zone,1,1,100,0.01594843000901833,1,DST
+MF,CMP-N-acetylneuraminate transmembrane transporter activity,1,1,100,0.00529876744576021,1,SLC35A1
+MF,ornithine-oxo-acid transaminase activity,1,1,100,0.00908496426102466,1,OAT
+MF,ornithine(lysine) transaminase activity,1,1,100,0.00908496426102466,1,OAT
+MF,heparan sulfate 2-O-sulfotransferase activity,1,1,100,0.01075634967374884,1,HS2ST1
+MF,"3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase activity",1,1,100,0.01112831145036999,1,HSD17B4

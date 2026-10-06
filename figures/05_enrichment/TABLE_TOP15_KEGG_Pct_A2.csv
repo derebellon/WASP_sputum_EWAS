@@ -1,0 +1,16 @@
+Description,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+Sulfur cycle,2,1,50,0.01886428117810506,1,PAPSS2
+Sulfur metabolism,10,1,10,0.05918338469932036,1,PAPSS2
+Mucin type O-glycan biosynthesis,36,3,8.333333333333332,0.00460734600761475,1,"B3GNT3,GALNT13,GALNTL6"
+Glycosphingolipid biosynthesis - ganglio series,15,1,6.666666666666667,0.14831270255641504,1,HEXB
+Taurine and hypotaurine metabolism,16,1,6.25,0.10184390829851564,1,FMO2
+Glycosphingolipid biosynthesis - globo and isoglobo series,16,1,6.25,0.1078295027967521,1,HEXB
+Primary bile acid biosynthesis,17,1,5.88235294117647,0.09115693946526104,1,HSD17B4
+Selenocompound metabolism,17,1,5.88235294117647,0.12081206636414958,1,PAPSS2
+Other glycan degradation,18,1,5.555555555555555,0.14145680100273708,1,HEXB
+Glycosaminoglycan degradation,19,1,5.263157894736842,0.15413776486844952,1,HEXB
+Steroid biosynthesis,20,1,5,0.1257617923580169,1,LBR
+Renin-angiotensin system,23,1,4.3478260869565215,0.12890033927451114,1,LNPEP
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin,24,1,4.166666666666666,0.19621635138196503,1,HS2ST1
+Other types of O-glycan biosynthesis,49,2,4.081632653061225,0.07575714331809907,1,"GALNT13,GALNTL6"
+Pancreatic cancer,76,3,3.9473684210526314,0.03776516107445021,1,"EGF,SMAD2,SMAD4,RB1"

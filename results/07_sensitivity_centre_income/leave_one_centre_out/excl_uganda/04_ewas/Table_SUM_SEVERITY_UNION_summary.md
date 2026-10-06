@@ -1,0 +1,5 @@
+# Severity summary (SUMA de A7+A8) (SUM_SEVERITY)
+
+| comparisons_included | n_FDR_lt_0_20 | n_FDR_lt_0_10 | n_FDR_lt_0_05 | n_Hits_05_Beta01 | n_p_lt_0_10 | n_p_lt_0_20 | top10_cpgs_por_comparacion | top10_genes_por_comparacion |
+| - | - | - | - | - | - | - | - | - |
+| severity_INDEPENDENT + severity_ATOPIC_C1_vs_C3 | 7 | 4 | 2 | 2 | 7 | 7 | severity_INDEPENDENT: cg23453683, cg08558478 | severity_ATOPIC_C1_vs_C3: cg08467103, cg04229315, cg17603188, cg15183704, cg24085719 | severity_INDEPENDENT: SEC1 | severity_ATOPIC_C1_vs_C3: SPRED2, CREB3L2, PLD5, CXorf38 |

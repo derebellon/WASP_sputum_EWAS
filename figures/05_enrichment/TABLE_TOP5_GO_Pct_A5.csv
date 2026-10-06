@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,regulation of RNA-dependent RNA polymerase activity,1,1,100,0.0032890652740303,1,EIF4A2
+BP,negative regulation of RNA-dependent RNA polymerase activity,1,1,100,0.0032890652740303,1,EIF4A2
+BP,glycolipid translocation,1,1,100,0.00542421209344866,1,RFT1
+BP,synchronous neurotransmitter secretion,1,1,100,0.01647942199629533,1,SYT1
+BP,"fast, calcium ion-dependent exocytosis of neurotransmitter",1,1,100,0.01647942199629533,1,SYT1
+CC,plasma membrane proton-transporting V-type ATPase complex,2,1,50,0.01620126113391126,1,ATP6V0D1
+CC,chiasma,2,1,50,0.01828366848909313,1,MLH3
+CC,clathrin-sculpted acetylcholine transport vesicle,3,1,33.33333333333333,0.02288341102541073,1,SYT1
+CC,clathrin-sculpted acetylcholine transport vesicle membrane,3,1,33.33333333333333,0.02288341102541073,1,SYT1
+CC,centralspindlin complex,3,1,33.33333333333333,0.02395337903983712,1,RACGAP1
+MF,histidine decarboxylase activity,1,1,100,0.00527000303495827,1,HDC
+MF,glycolipid floppase activity,1,1,100,0.00542421209344866,1,RFT1
+MF,4-hydroxybenzoate octaprenyltransferase activity,1,1,100,0.0062826691041106,1,COQ2
+MF,4-hydroxybenzoate nonaprenyltransferase activity,1,1,100,0.0062826691041106,1,COQ2
+MF,isovaleryl-CoA dehydrogenase activity,1,1,100,0.00631388315725938,1,IVD

@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,meiotic spindle elongation,1,1,100,0.00425494860220859,1,PPP2R1A
+BP,negative regulation of growth rate,1,1,100,0.00516997163720447,1,TMPRSS4
+BP,vacuolar sequestering,1,1,100,0.00606445069665038,1,GAA
+BP,renal amino acid absorption,1,1,100,0.01168177072408978,1,SLC6A18
+BP,negative regulation of hepatocyte growth factor receptor signaling pathway,1,1,100,0.01292629443535167,1,ADAMTS12
+CC,protein C inhibitor-TMPRSS7 complex,1,1,100,0.0027928059713438,1,SERPINA5
+CC,protein C inhibitor-TMPRSS11E complex,1,1,100,0.0027928059713438,1,SERPINA5
+CC,protein C inhibitor-PLAT complex,1,1,100,0.0027928059713438,1,SERPINA5
+CC,protein C inhibitor-PLAU complex,1,1,100,0.0027928059713438,1,SERPINA5
+CC,protein C inhibitor-thrombin complex,1,1,100,0.0027928059713438,1,SERPINA5
+MF,neutral L-amino acid:sodium:chloride symporter activity,1,1,100,0.01168177072408978,1,SLC6A18
+MF,ferritin receptor activity,1,1,100,0.0132926620995021,1,SCARA5
+MF,tapasin binding,1,1,100,0.01426677533580018,1,TAP2
+MF,iodide peroxidase activity,1,1,100,0.01429083630297468,1,TPO
+MF,haloperoxidase activity,1,1,100,0.01429083630297468,1,TPO

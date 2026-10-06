@@ -1,0 +1,16 @@
+ONTOLOGY,TERM,N,DE,Enrichment_Pct,P.DE,FDR,SigGenesInSet
+BP,snRNA methylation,1,1,100,0.00432292981858001,1,LARP7
+BP,snRNA 2'-O-methylation,1,1,100,0.00432292981858001,1,LARP7
+BP,U6 2'-O-snRNA methylation,1,1,100,0.00432292981858001,1,LARP7
+BP,endocardial cell fate commitment,1,1,100,0.01355463624232654,1,ACVR1
+BP,endocardial cushion cell fate commitment,1,1,100,0.01355463624232654,1,ACVR1
+CC,rod photoreceptor disc membrane,1,1,100,0.01586517505574739,1,ABCA4
+CC,axonemal central pair projection,1,1,100,0.01665381634956189,1,HYDIN
+CC,megasporocyte nucleus,2,1,50,0.01778280797465854,1,ZNF70
+CC,cochlear hair cell ribbon synapse,2,1,50,0.03207094616288796,1,CDH23
+CC,outer dynein arm docking complex,3,1,33.33333333333333,0.01093933867681746,1,ODAD4
+MF,spermine synthase activity,1,1,100,0.004576354091459,1,SMS
+MF,hepatocyte growth factor receptor activity,1,1,100,0.01247101034741096,1,MET
+MF,N-retinylidene-phosphatidylethanolamine flippase activity,1,1,100,0.01586517505574739,1,ABCA4
+MF,glucagon receptor activity,2,1,50,0.00714636137159202,1,GLP2R
+MF,cysteine-type carboxypeptidase activity,2,1,50,0.00886475453860136,1,MINDY1
